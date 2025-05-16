@@ -1,0 +1,198 @@
+{
+    "summary": {
+      "active": true,
+      "profile": {
+        "age": "8 years",
+        "est": "2016-01-20"
+      },
+      "capital": {
+        "authinLakhs": 100,
+        "paidinLakhs": 84.99
+      },
+      "business": {
+        "act": "Data processing. [processing And Data Preparation]",
+        "nic": "62020"
+      },
+      "identity": {
+        "name": "CBL DATA SCIENCE PRIVATE LIMITED",
+        "cin": "U72900TN2016PTC103621",
+        "reg": "103621"
+      },
+      "dates": {
+        "inc": "20-01-2016",
+        "bs": "31-03-2024",
+        "agm": "28-09-2024"
+      },
+      "class": ["Indian Non-Government Company", "Private Company", "Company limited by Shares"]
+    },
+    "overview": {
+      "active": true,
+      "updated": "28-01-2025",
+      "identity": {
+        "name": "CBL DATA SCIENCE PRIVATE LIMITED",
+        "cin": "U72900TN2016PTC103621",
+        "reg": "103621"
+      },
+      "class": {
+        "compClass": "Private",
+        "compCat": "Company limited by Shares",
+        "active": true
+      },
+      "business": {
+        "ind": "Data processing. [processing And Data Preparation]",
+        "nic": "63110",
+        "dirs": 2
+      }
+    },
+    "financial": {
+      "authCap": "10000000",
+      "paidCap": "8499000"
+    },
+    "contact": {
+      "email": "rajesh@cbldata.in",
+      "web": "www.cbldata.in",
+      "addr": "Old No. 32, New No. 60, Dr. Ranga Road, Mylapore, Chennai Chennai TN 600004 IN"
+    },
+    "k_insights": {
+      "age": "8 years old",
+      "mgmt": "Managed by 2 directors",
+      "comp": "Active compliant company"
+    },
+    "dirs": {
+      "updated": "28-01-2025",
+      "info": [
+      "As of 28-01-2025 CBL DATA SCIENCE PRIVATE LIMITED has 2 directors having active directorship and 0 signatories. Directors of CBL DATA SCIENCE PRIVATE LIMITED are MANICKAM RAJESH ANAND, RAJI MOHAMMED.",
+      "There were 1 directors associated with the company who have resigned or holding past directorship.",
+      "The company is run by experienced team of directors whose average age is 42.04 years. CBL DATA SCIENCE PRIVATE LIMITED is handled by all male members director team.",
+      "There are no directors in this company who are 'Disqualified by ROC u/s 164(2)' or 'DIN is deactivated due to non-filing of DIR-3 KYC form', as everyone filed their KYC promptly.",
+      "There are no foreign directors associated with the company, all active directors' nationality is India.",
+      "The directors in this company holds a count of 0 directorships in companies, other than CBL DATA SCIENCE PRIVATE LIMITED."
+    ],
+    "stats": {
+      "current": 2,
+      "deactivated": 1,
+      "disqualified": 0,
+      "signatories": 0
+    },
+    "current": [
+      {
+        "name": "MANICKAM RAJESH ANAND",
+        "din": "07620859",
+        "desig": "Director",
+        "appt": "20-01-2016",
+        "total": 0,
+        "disq": false,
+        "deact": false
+      },
+      {
+        "name": "RAJI MOHAMMED",
+        "din": "07620859",
+        "desig": "Director",
+        "appt": "20-01-2016",
+        "total": 0,
+        "disq": false,
+        "deact": false
+      }
+    ],
+    "signatories":{
+        "c_name": null,
+        "c_status": null,
+        "c_age": null,
+        "c_state": null,
+        "c_directors": null
+    },
+    "past_directors":{
+        "name": "UDHAY KHEMKA",
+        "din": "07620859",
+        "desig": "Director",
+        "appt": "20-01-2016",
+        "total": 0,
+        "disq": false,
+        "deact": false
+    },
+    "d_analysis": [
+      "The company has maintained a stable leadership structure with two founding directors who have been with the organization since its incorporation in 2016.",
+      "There was a third director (UDHAY KHEMKA) who was part of the company from 2016 to approximately 2020, but is no longer associated with the company.",
+      "All directors have maintained good standing with regulatory authorities, with no disqualifications under section 164(2) of the Companies Act.",
+      "The average age of the current directors is 42.04 years, indicating an experienced leadership team.."
+    ]
+  },
+  "charges": {
+    "updated": "28-01-2025",
+    "overview": [
+      "As of 28-01-2025 ADANI FOOD PRODUCTS PVT LTD has total of 5 open charges with the charge amounting to ₹54,00,00,000 (₹54 Cr.).",
+      "These charges are provided by 3 different charge holders. The highest contributor among the charge holders is HDFC Bank amounting ₹20,00,00,000 (₹20 Cr.).",
+      "Adani food products pvt ltd had total of 9 closed charges with total charges amounting to ₹12,00,00,000 (₹12 Cr.).",
+      "These charges were provided by 2 different charge holders. The highest contributor among the closed charge holders was ICICI Bank amounting ₹8,00,00,000 (₹8 Cr.)."
+    ],
+    "openHolders": [
+      {"svg": "<svg width=\"800px\" height=\"800px\" viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"120\" height=\"120\" fill=\"#EFF1F3\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M33.2503 38.4816C33.2603 37.0472 34.4199 35.8864 35.8543 35.875H83.1463C84.5848 35.875 85.7503 37.0431 85.7503 38.4816V80.5184C85.7403 81.9528 84.5807 83.1136 83.1463 83.125H35.8543C34.4158 83.1236 33.2503 81.957 33.2503 80.5184V38.4816ZM80.5006 41.1251H38.5006V77.8751L62.8921 53.4783C63.9172 52.4536 65.5788 52.4536 66.6039 53.4783L80.5006 67.4013V41.1251ZM43.75 51.6249C43.75 54.5244 46.1005 56.8749 49 56.8749C51.8995 56.8749 54.25 54.5244 54.25 51.6249C54.25 48.7254 51.8995 46.3749 49 46.3749C46.1005 46.3749 43.75 48.7254 43.75 51.6249Z\" fill=\"#687787\"/></svg>" },
+      { "label": "HDFC Bank", "value": 34 },
+      { "label": "AXIS Bank", "value": 33 },
+      { "label": "IDFC Bank", "value": 33 }
+    ],
+    "summary": {
+      "total": 3,
+      "totalValLakh": 660,
+      "avgValLakh": 1320,
+      "avgAge": 3,
+      "totalOpen": 5400
+    },
+    "openDetails": [
+      {
+        "id": 1,
+        "holder": "HDFC Bank",
+        "amt": 200000000,
+        "date": "12-01-2022"
+      },
+      {
+        "id": 2,
+        "holder": "AXIS Bank",
+        "amt": 180000000,
+        "date": "05-03-2021"
+      },
+      {
+        "id": 3,
+        "holder": "IDFC First Bank",
+        "amt": 160000000,
+        "date": "18-11-2023"
+      }
+    ]
+  },
+  "insights": {
+    "overview": [
+      "Advanced analysis of company performance, risks, and opportunities",
+      "Based on financial, market, and compliance data from multiple sources",
+      "Identifies key strengths, weaknesses, and potential red flags",
+      "Provides objective assessment of company's current position and outlook",
+      "Updated as of 28-01-2025 with latest available information",
+      "Highlights areas requiring attention or improvement"
+    ],
+    "key": {
+      "pos": [
+        "19.6% YoY revenue growth with 21.1% profit margin",
+        "Strong leadership team with complementary skills",
+        "Market share growth of 2.5 percentage points",
+        "Improved working capital management",
+        "Consistent growth over past 5 years"
+      ],
+      "caution": [
+        "Increasing debt-to-equity ratio in last fiscal year",
+        "Limited board diversity affecting perspectives",
+        "Decreasing R&D investment as percentage of revenue",
+        "Supply chain disruptions affecting deliveries",
+        "Increasing competition pressuring margins"
+      ],
+      "red": [
+        "62% revenue from top 3 clients (dependency risk)",
+        "Multiple charges from different financial institutions",
+        "Increasing debt without corresponding growth",
+        "Concentrated decision-making among few directors",
+        "High turnover in middle management positions"
+      ]
+    }
+  },
+  "performance": {
+    "svg": "<svg width=\"800px\" height=\"800px\" viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"120\" height=\"120\" fill=\"#EFF1F3\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M33.2503 38.4816C33.2603 37.0472 34.4199 35.8864 35.8543 35.875H83.1463C84.5848 35.875 85.7503 37.0431 85.7503 38.4816V80.5184C85.7403 81.9528 84.5807 83.1136 83.1463 83.125H35.8543C34.4158 83.1236 33.2503 81.957 33.2503 80.5184V38.4816ZM80.5006 41.1251H38.5006V77.8751L62.8921 53.4783C63.9172 52.4536 65.5788 52.4536 66.6039 53.4783L80.5006 67.4013V41.1251ZM43.75 51.6249C43.75 54.5244 46.1005 56.8749 49 56.8749C51.8995 56.8749 54.25 54.5244 54.25 51.6249C54.25 48.7254 51.8995 46.3749 49 46.3749C46.1005 46.3749 43.75 48.7254 43.75 51.6249Z\" fill=\"#687787\"/></svg>"
+  }
+}
