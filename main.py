@@ -26,56 +26,89 @@ async def root():
 @app.get("/test", summary="Stream main.json", 
          description="endpoint that streams main.json in LLM-like format")
 async def test():
-    try:
-        with open("main.json", "r") as file:
-            content = file.read()
-    except FileNotFoundError:
-        # For Vercel deployment, use absolute path
-        try:
-            current_dir = os.path.dirname(os.path.realpath(__file__))
-            with open(os.path.join(current_dir, "main.json"), "r") as file:
-                content = file.read()
-        except FileNotFoundError:
-            return {"error": "Could not load main.json file"}
-    
     async def generate():
-        # Process the content in larger chunks to reduce total number of chunks
-        buffer = ""
-        for char in content:
-            buffer += char
-            # Increased chunk size to 10 characters or natural boundaries
-            if len(buffer) >= 10 or char in ['}', ']', ',', ';', '.', ':', '\n']:
-                # Format in OpenAI-like delta format
-                chunk = json.dumps({
-                    "choices": [{
-                        "delta": {
-                            "content": buffer
-                        }
-                    }]
-                })
-                yield f"data: {chunk}\n\n"
-                # Increased delay to 0.2 seconds between chunks
-                await asyncio.sleep(0.2)
-                buffer = ""
-        
-        # Send any remaining buffer
-        if buffer:
-            chunk = json.dumps({
-                "choices": [{
-                    "delta": {
-                        "content": buffer
-                    }
-                }]
-            })
-            yield f"data: {chunk}\n\n"
+        data = None
+        try:
+            # Try reading from the standard path first
+            with open("main.json", "r") as file:
+                content_str = file.read()
+            data = json.loads(content_str)
+        except FileNotFoundError:
+            # If not found, try the Vercel deployment path
+            try:
+                current_dir = os.path.dirname(os.path.realpath(__file__))
+                alt_path = os.path.join(current_dir, "main.json")
+                with open(alt_path, "r") as file:
+                    content_str = file.read()
+                data = json.loads(content_str)
+            except FileNotFoundError:
+                error_payload_str = json.dumps({"error": "Could not load main.json file"})
+                error_chunk_payload = {"data": error_payload_str}
+                yield f"data: {json.dumps(error_chunk_payload)}\\n\\n"
+                eos_marker_payload = {"data": None}
+                yield f"data: {json.dumps(eos_marker_payload)}\\n\\n"
+                return
+            except json.JSONDecodeError:
+                error_payload_str = json.dumps({"error": f"main.json at {alt_path} is not valid JSON"})
+                error_chunk_payload = {"data": error_payload_str}
+                yield f"data: {json.dumps(error_chunk_payload)}\\n\\n"
+                eos_marker_payload = {"data": None}
+                yield f"data: {json.dumps(eos_marker_payload)}\\n\\n"
+                return
+        except json.JSONDecodeError:
+            error_payload_str = json.dumps({"error": "main.json is not valid JSON"})
+            error_chunk_payload = {"data": error_payload_str}
+            yield f"data: {json.dumps(error_chunk_payload)}\\n\\n"
+            eos_marker_payload = {"data": None}
+            yield f"data: {json.dumps(eos_marker_payload)}\\n\\n"
+            return
+
+        current_data_accumulator = None
+        initial_empty_yielded = False
+
+        if isinstance(data, dict):
+            current_data_accumulator = {}
+        elif isinstance(data, list):
+            current_data_accumulator = []
+        else:
+            # For primitive types, the accumulator will be the data itself.
+            current_data_accumulator = data
+
+
+        # Yield initial empty state for dict/list if applicable
+        if isinstance(data, (dict, list)):
+            chunk_content_str = json.dumps(current_data_accumulator)
+            chunk_to_send_payload = {"data": chunk_content_str}
+            yield f"data: {json.dumps(chunk_to_send_payload)}\\n\\n"
+            await asyncio.sleep(2.5)
+            initial_empty_yielded = True
+
+        # Process and stream data
+        if isinstance(data, dict):
+            keys = list(data.keys())
+            for key in keys:
+                current_data_accumulator[key] = data[key]
+                chunk_content_str = json.dumps(current_data_accumulator)
+                chunk_to_send_payload = {"data": chunk_content_str}
+                yield f"data: {json.dumps(chunk_to_send_payload)}\\n\\n"
+                await asyncio.sleep(2.5)
+        elif isinstance(data, list):
+            for item in data:
+                current_data_accumulator.append(item)
+                chunk_content_str = json.dumps(current_data_accumulator)
+                chunk_to_send_payload = {"data": chunk_content_str}
+                yield f"data: {json.dumps(chunk_to_send_payload)}\\n\\n"
+                await asyncio.sleep(2.5)
+        else: # Primitive type (string, number, boolean, null)
+            if not initial_empty_yielded:
+                chunk_content_str = json.dumps(current_data_accumulator) # current_data_accumulator is data
+                chunk_to_send_payload = {"data": chunk_content_str}
+                yield f"data: {json.dumps(chunk_to_send_payload)}\\n\\n"
+                await asyncio.sleep(2.5)
         
         # End of stream marker
-        chunk = json.dumps({
-            "choices": [{
-                "delta": {}
-            }]
-        })
-        yield f"data: {chunk}\n\n"
+        eos_marker_payload = {"data": None}
+        yield f"data: {json.dumps(eos_marker_payload)}\\n\\n"
     
     return StreamingResponse(generate(), media_type="text/event-stream")
 
