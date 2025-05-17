@@ -6,6 +6,10 @@ import asyncio
 import uvicorn
 from typing import Dict, Any, List
 import os
+from pydantic import BaseModel
+
+class GenerateRequest(BaseModel):
+    prompt: str
 
 app = FastAPI(title="JSON Streamer", 
               description="streaming JSON content")
@@ -112,5 +116,62 @@ async def test():
     
     return StreamingResponse(generate(), media_type="text/event-stream")
 
+@app.post("/generate", summary="Stream data incrementally based on prompt", 
+         description="Endpoint that streams data incrementally, building up a complete JSON object")
+async def generate(request: GenerateRequest):
+    async def stream_generator():
+        data = None
+        try:
+            # Try reading from the standard path first
+            with open("main.json", "r") as file:
+                content_str = file.read()
+            data = json.loads(content_str)
+        except FileNotFoundError:
+            # If not found, try the Vercel deployment path
+            try:
+                current_dir = os.path.dirname(os.path.realpath(__file__))
+                alt_path = os.path.join(current_dir, "main.json")
+                with open(alt_path, "r") as file:
+                    content_str = file.read()
+                data = json.loads(content_str)
+            except FileNotFoundError:
+                error_json = json.dumps({"error": "Could not load main.json file"})
+                yield f"{error_json}\\n"
+                return
+            except json.JSONDecodeError:
+                error_json = json.dumps({"error": f"main.json at {alt_path} is not valid JSON"})
+                yield f"{error_json}\\n"
+                return
+        except json.JSONDecodeError:
+            error_json = json.dumps({"error": "main.json is not valid JSON"})
+            yield f"{error_json}\\n"
+            return
+
+        # The full data structure as an accumulator
+        accumulated_data = {}
+
+        # Process top-level keys one by one
+        sections = list(data.keys())
+        
+        # First send an empty JSON object
+        yield "{}\\n"
+        await asyncio.sleep(1)
+
+        # Then start adding sections one by one
+        for section in sections:
+            # Add the current section to the accumulated data
+            accumulated_data[section] = data[section]
+            
+            # Return the accumulated JSON
+            yield f"{json.dumps(accumulated_data)}\\n"
+            
+            # Delay before sending the next chunk
+            await asyncio.sleep(2.5)
+    
+    return StreamingResponse(
+        stream_generator(), 
+        media_type="text/plain"  # Changed to text/plain since we're not using SSE format
+    )
+
 if __name__ == "__main__":
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True) 
+    uvicorn.run("main:app", host="0.0.0.0", port=8888, reload=True) 
