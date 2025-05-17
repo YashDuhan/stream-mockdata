@@ -1,198 +1,410 @@
 {
-    "summary": {
+  "summary": {
       "active": true,
       "profile": {
-        "age": "8 years",
-        "est": "2016-01-20"
+          "age": "15 years",
+          "est": "2010-01-18"
       },
       "capital": {
-        "authinLakhs": 100,
-        "paidinLakhs": 84.99
+          "authinLakhs": 144863.29,
+          "paidinLakhs": 96503.51
       },
       "business": {
-        "act": "Data processing. [processing And Data Preparation]",
-        "nic": "62020"
+          "act": "Arts; entertainment and recreation",
+          "nic": "Sports activities and amusement and recreation activities"
       },
       "identity": {
-        "name": "CBL DATA SCIENCE PRIVATE LIMITED",
-        "cin": "U72900TN2016PTC103621",
-        "reg": "103621"
+          "name": "ETERNAL LIMITED",
+          "cin": "L93030DL2010PLC198141",
+          "reg": "198141"
       },
       "dates": {
-        "inc": "20-01-2016",
-        "bs": "31-03-2024",
-        "agm": "28-09-2024"
+          "inc": "18-01-2010",
+          "bs": "31-03-2024",
+          "agm": "28-08-2024"
       },
-      "class": ["Indian Non-Government Company", "Private Company", "Company limited by Shares"]
-    },
-    "overview": {
+      "class": [
+          "Indian Non-Government Company",
+          "Public Company",
+          "Company limited by Shares"
+      ]
+  },
+  "overview": {
       "active": true,
-      "updated": "28-01-2025",
+      "updated": "10-05-2025",
       "identity": {
-        "name": "CBL DATA SCIENCE PRIVATE LIMITED",
-        "cin": "U72900TN2016PTC103621",
-        "reg": "103621"
+          "name": "ETERNAL LIMITED",
+          "cin": "L93030DL2010PLC198141",
+          "reg": "198141"
       },
       "class": {
-        "compClass": "Private",
-        "compCat": "Company limited by Shares",
-        "active": true
+          "compClass": "Public",
+          "compCat": "Company limited by Shares",
+          "active": true
       },
       "business": {
-        "ind": "Data processing. [processing And Data Preparation]",
-        "nic": "63110",
-        "dirs": 2
+          "ind": "Other service activities",
+          "nic": "Sports activities and amusement and recreation activities",
+          "dirs": 5
       }
-    },
-    "financial": {
-      "authCap": "10000000",
-      "paidCap": "8499000"
-    },
-    "contact": {
-      "email": "rajesh@cbldata.in",
-      "web": "www.cbldata.in",
-      "addr": "Old No. 32, New No. 60, Dr. Ranga Road, Mylapore, Chennai Chennai TN 600004 IN"
-    },
-    "k_insights": {
-      "age": "8 years old",
-      "mgmt": "Managed by 2 directors",
+  },
+  "financial": {
+      "authCap": "14486329341",
+      "paidCap": "9650350647"
+  },
+  "contact": {
+      "email": "secretarial@zomato.com",
+      "web": "www.zomato.com",
+      "addr": "GROUND FLOOR 12A; 94 MEGHDOOT NEHRU PLACE NA; NEW DELHI; South Delhi; Delhi; 110019; India"
+  },
+  "k_insights": {
+      "age": "15 years old",
+      "mgmt": "Managed by 5 directors",
       "comp": "Active compliant company"
-    },
-    "dirs": {
-      "updated": "28-01-2025",
+  },
+  "dirs": {
+      "updated": "24-04-2025",
       "info": [
-      "As of 28-01-2025 CBL DATA SCIENCE PRIVATE LIMITED has 2 directors having active directorship and 0 signatories. Directors of CBL DATA SCIENCE PRIVATE LIMITED are MANICKAM RAJESH ANAND, RAJI MOHAMMED.",
-      "There were 1 directors associated with the company who have resigned or holding past directorship.",
-      "The company is run by experienced team of directors whose average age is 42.04 years. CBL DATA SCIENCE PRIVATE LIMITED is handled by all male members director team.",
-      "There are no directors in this company who are 'Disqualified by ROC u/s 164(2)' or 'DIN is deactivated due to non-filing of DIR-3 KYC form', as everyone filed their KYC promptly.",
-      "There are no foreign directors associated with the company, all active directors' nationality is India.",
-      "The directors in this company holds a count of 0 directorships in companies, other than CBL DATA SCIENCE PRIVATE LIMITED."
-    ],
-    "stats": {
-      "current": 2,
-      "deactivated": 1,
-      "disqualified": 0,
-      "signatories": 0
-    },
-    "current": [
-      {
-        "name": "MANICKAM RAJESH ANAND",
-        "din": "07620859",
-        "desig": "Director",
-        "appt": "20-01-2016",
-        "total": 0,
-        "disq": false,
-        "deact": false
+          "As of 24-04-2025 ETERNAL LIMITED has 5 directors having active directorship. Directors of ETERNAL LIMITED are DEEPINDER GOYAL, KAUSHIK DUTTA, SANJEEV BIKHCHANDANI, SUTAPA BANERJEE, APARNA POPAT VED.",
+          "There were 11 directors associated with the company who have resigned or holding past directorship.",
+          "The company is run by an experienced team of directors with diverse backgrounds and expertise.",
+          "The company has a mix of Managing Director, Nominee Director, and Independent Directors on its board.",
+          "The company has several foreign directors who have served in the past, indicating international business connections.",
+          "The directors in this company hold directorships in multiple other companies, suggesting extensive corporate experience and networks."
+      ],
+      "stats": {
+          "current": 5,
+          "deactivated": 11,
+          "disqualified": 0,
+          "signatories": 5
       },
-      {
-        "name": "RAJI MOHAMMED",
-        "din": "07620859",
-        "desig": "Director",
-        "appt": "20-01-2016",
-        "total": 0,
-        "disq": false,
-        "deact": false
-      }
-    ],
-    "signatories":{
-        "c_name": null,
-        "c_status": null,
-        "c_age": null,
-        "c_state": null,
-        "c_directors": null
-    },
-    "past_directors":{
-        "name": "UDHAY KHEMKA",
-        "din": "07620859",
-        "desig": "Director",
-        "appt": "20-01-2016",
-        "total": 0,
-        "disq": false,
-        "deact": false
-    },
-    "d_analysis": [
-      "The company has maintained a stable leadership structure with two founding directors who have been with the organization since its incorporation in 2016.",
-      "There was a third director (UDHAY KHEMKA) who was part of the company from 2016 to approximately 2020, but is no longer associated with the company.",
-      "All directors have maintained good standing with regulatory authorities, with no disqualifications under section 164(2) of the Companies Act.",
-      "The average age of the current directors is 42.04 years, indicating an experienced leadership team.."
-    ]
+      "current": [
+          {
+              "name": "DEEPINDER GOYAL",
+              "din": "2613583",
+              "desig": "Managing Director",
+              "appt": "24-03-2021",
+              "total": 2,
+              "disq": false,
+              "deact": false
+          },
+          {
+              "name": "KAUSHIK DUTTA",
+              "din": "3328890",
+              "desig": "Director",
+              "appt": "05-03-2021",
+              "total": 13,
+              "disq": false,
+              "deact": false
+          },
+          {
+              "name": "SANJEEV BIKHCHANDANI",
+              "din": "65640",
+              "desig": "Nominee Director",
+              "appt": "13-04-2018",
+              "total": 15,
+              "disq": false,
+              "deact": false
+          },
+          {
+              "name": "SUTAPA BANERJEE",
+              "din": "2844650",
+              "desig": "Director",
+              "appt": "19-04-2021",
+              "total": 8,
+              "disq": false,
+              "deact": false
+          },
+          {
+              "name": "APARNA POPAT VED",
+              "din": "8661466",
+              "desig": "Director",
+              "appt": "26-06-2021",
+              "total": 4,
+              "disq": false,
+              "deact": false
+          }
+      ],
+      "signatories": [
+          {
+              "name": "SANDHYA SETHIA",
+              "pan": "ECXPS5529H",
+              "desig": "Company Secretary",
+              "appt": "21-01-2019"
+          },
+          {
+              "name": "SEEMA KHANNA",
+              "pan": "AFUPG8313H",
+              "desig": "Company Secretary",
+              "appt": "27-09-2017"
+          },
+          {
+              "name": "AKRITI CHOPRA",
+              "pan": "AHAPC8111D",
+              "desig": "CFO(KMP)",
+              "appt": "08-11-2019"
+          },
+          {
+              "name": "AKSHANT GOYAL",
+              "pan": "AIVPG9914G",
+              "desig": "CFO(KMP)",
+              "appt": "09-11-2020"
+          },
+          {
+              "name": "DEEPINDER GOYAL",
+              "pan": "AKXPG9683Q",
+              "desig": "CEO(KMP)",
+              "appt": "24-03-2021"
+          }
+      ],
+      "past_directors": [
+          {
+              "name": "MOHIT BHATNAGAR ANAND",
+              "din": "381741",
+              "desig": "Director",
+              "appt": "06-11-2013"
+          },
+          {
+              "name": "SUDHIR BHARGAVA",
+              "din": "2325281",
+              "desig": "Nominee director",
+              "appt": "26-07-2010"
+          },
+          {
+              "name": "PANKAJ CHADDAH",
+              "din": "2625858",
+              "desig": "Nominee Director",
+              "appt": "18-01-2010"
+          },
+          {
+              "name": "IREENA VITTAL",
+              "din": "5195656",
+              "desig": "Nominee Director",
+              "appt": "22-04-2014"
+          },
+          {
+              "name": "CHEN YAN",
+              "din": "7788454",
+              "desig": "Nominee Director",
+              "appt": "28-02-2018"
+          },
+          {
+              "name": "DOUGLAS LEHMAN FEAGIN",
+              "din": "7868696",
+              "desig": "Nominee Director",
+              "appt": "28-02-2018"
+          },
+          {
+              "name": "ZHENG LIU",
+              "din": "8078736",
+              "desig": "Alternate Director",
+              "appt": "05-03-2018"
+          },
+          {
+              "name": "GUOMING CHENG",
+              "din": "7877715",
+              "desig": "Nominee Director",
+              "appt": "25-05-2019"
+          },
+          {
+              "name": "NAMITA GUPTA",
+              "din": "7337772",
+              "desig": "Director",
+              "appt": "05-03-2021"
+          },
+          {
+              "name": "GUNJAN TILAK RAJ SONI",
+              "din": "7333270",
+              "desig": "Director",
+              "appt": "26-06-2021"
+          },
+          {
+              "name": "GUNJAN TILAK RAJ SONI",
+              "din": "7333270",
+              "desig": "Additional Director",
+              "appt": "19-04-2021"
+          }
+      ],
+      "related": [
+          {
+              "name": "UPSLOPE ADVISORS PRIVATE LIMITED",
+              "cin": "U70200HR2024PTC120507",
+              "industry": "REAL ESTATE ACTIVITIES",
+              "status": "Active"
+          },
+          {
+              "name": "PB FINTECH LIMITED",
+              "cin": "L51909HR2008PLC037998",
+              "industry": "WHOLESALE TRADE AND COMMISSION TRADE",
+              "status": "Active"
+          },
+          {
+              "name": "SHIPROCKET PRIVATE LIMITED",
+              "cin": "U72900DL2011PTC225614",
+              "industry": "COMPUTER AND RELATED ACTIVITIES",
+              "status": "Active"
+          },
+          {
+              "name": "INFO EDGE (INDIA) LIMITED",
+              "cin": "L74899DL1995PLC068021",
+              "industry": "OTHER BUSINESS ACTIVITIES",
+              "status": "Active"
+          },
+          {
+              "name": "ZOMATO HYPERPURE PRIVATE LIMITED",
+              "cin": "U74900DL2015PTC286208",
+              "industry": "OTHER BUSINESS ACTIVITIES",
+              "status": "Active"
+          }
+      ],
+      "d_analysis": [
+          "The company has transformed from a privately held startup to a public listed entity with a professional board structure.",
+          "Multiple nominee directors from investor firms have served on the board, reflecting the company's funding history.",
+          "The current board includes a mix of founders, industry veterans, and independent directors.",
+          "The company has maintained good corporate governance with proper succession planning for key positions.",
+          "The directorship patterns indicate strategic alignment with the food delivery and tech ecosystem."
+      ]
   },
   "charges": {
-    "updated": "28-01-2025",
-    "overview": [
-      "As of 28-01-2025 ADANI FOOD PRODUCTS PVT LTD has total of 5 open charges with the charge amounting to ₹54,00,00,000 (₹54 Cr.).",
-      "These charges are provided by 3 different charge holders. The highest contributor among the charge holders is HDFC Bank amounting ₹20,00,00,000 (₹20 Cr.).",
-      "Adani food products pvt ltd had total of 9 closed charges with total charges amounting to ₹12,00,00,000 (₹12 Cr.).",
-      "These charges were provided by 2 different charge holders. The highest contributor among the closed charge holders was ICICI Bank amounting ₹8,00,00,000 (₹8 Cr.)."
-    ],
-    "openHolders": [
-      {"svg": "<svg width=\"800px\" height=\"800px\" viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"120\" height=\"120\" fill=\"#EFF1F3\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M33.2503 38.4816C33.2603 37.0472 34.4199 35.8864 35.8543 35.875H83.1463C84.5848 35.875 85.7503 37.0431 85.7503 38.4816V80.5184C85.7403 81.9528 84.5807 83.1136 83.1463 83.125H35.8543C34.4158 83.1236 33.2503 81.957 33.2503 80.5184V38.4816ZM80.5006 41.1251H38.5006V77.8751L62.8921 53.4783C63.9172 52.4536 65.5788 52.4536 66.6039 53.4783L80.5006 67.4013V41.1251ZM43.75 51.6249C43.75 54.5244 46.1005 56.8749 49 56.8749C51.8995 56.8749 54.25 54.5244 54.25 51.6249C54.25 48.7254 51.8995 46.3749 49 46.3749C46.1005 46.3749 43.75 48.7254 43.75 51.6249Z\" fill=\"#687787\"/></svg>" },
-      { "label": "HDFC Bank", "value": 34 },
-      { "label": "AXIS Bank", "value": 33 },
-      { "label": "IDFC Bank", "value": 33 }
-    ],
-    "summary": {
-      "total": 3,
-      "totalValLakh": 660,
-      "avgValLakh": 1320,
-      "avgAge": 3,
-      "totalOpen": 5400
-    },
-    "openDetails": [
-      {
-        "id": 1,
-        "holder": "HDFC Bank",
-        "amt": 200000000,
-        "date": "12-01-2022"
+      "updated": "24-04-2025",
+      "overview": [
+          "As of 24-04-2025 ETERNAL LIMITED has total of 2 open charges with the charge amounting to ₹31,000,000 (₹3.1 Cr.).",
+          "These charges are provided by 1 charge holder which is ICICI Bank Limited.",
+          "ETERNAL LIMITED had total of 6 closed charges with total charges amounting to ₹1,939,343,184 (₹193.93 Cr.).",
+          "These charges were provided by 3 different charge holders. The highest contributor among the closed charge holders was KOTAK MAHINDRA BANK LIMITED amounting ₹1,000,000,000 (₹100 Cr.)."
+      ],
+      "openHolders": [
+          {
+              "label": "ICICI BANK LIMITED",
+              "value": 100
+          }
+      ],
+      "summary": {
+          "total": 2,
+          "totalValLakh": 310,
+          "avgValLakh": 155,
+          "avgAge": 2,
+          "totalOpen": 31000000
       },
-      {
-        "id": 2,
-        "holder": "AXIS Bank",
-        "amt": 180000000,
-        "date": "05-03-2021"
+      "openDetails": [
+          {
+              "id": 100934592,
+              "holder": "ICICI BANK LIMITED",
+              "amt": 1000000,
+              "date": "01-06-2024"
+          },
+          {
+              "id": 100612890,
+              "holder": "ICICI BANK LIMITED",
+              "amt": 30000000,
+              "date": "10-08-2022"
+          }
+      ],
+      "closedDetails": [
+          {
+              "id": 100467714,
+              "holder": "ICICI BANK LIMITED",
+              "amt": 907500000,
+              "date": "07-07-2021",
+              "satisfied": "18-03-2023",
+              "years": 1.7,
+              "assets": "Fixed Deposit (FD No. 114713015563)"
+          },
+          {
+              "id": 100446510,
+              "holder": "HDFC BANK LIMITED",
+              "amt": 185584,
+              "date": "06-05-2021",
+              "satisfied": "07-03-2023",
+              "years": 1.8,
+              "assets": "Fixed Deposit (FD No.50300515389471)"
+          },
+          {
+              "id": 100333312,
+              "holder": "KOTAK MAHINDRA BANK LIMITED",
+              "amt": 1000000000,
+              "date": "18-03-2020",
+              "satisfied": "12-10-2020",
+              "years": 0.6,
+              "assets": "Book debts; Floating charge; Movable property (not being pledge)"
+          },
+          {
+              "id": 100286986,
+              "holder": "HDFC BANK LIMITED",
+              "amt": 567600,
+              "date": "17-08-2019",
+              "satisfied": "14-01-2022",
+              "years": 2.4,
+              "assets": "Creation of charge on fixed deposit of the Company"
+          },
+          {
+              "id": 100286983,
+              "holder": "HDFC BANK LIMITED",
+              "amt": 258000,
+              "date": "16-08-2019",
+              "satisfied": "14-01-2022",
+              "years": 2.4,
+              "assets": "Creation of charge on fixed deposit of the Company"
+          },
+          {
+              "id": 100286989,
+              "holder": "HDFC BANK LIMITED",
+              "amt": 1032000,
+              "date": "16-08-2019",
+              "satisfied": "14-01-2022",
+              "years": 2.4,
+              "assets": "Creation of charge on fixed deposit of the Company"
+          }
+      ],
+      "satisfied": {
+          "total": 6,
+          "amt": "193.93 Cr.",
+          "summary": [
+              "Total of 6 charges satisfied amounting to 1,939,343,184 (193.93 Cr.)",
+              "Average charge duration was 1.88 years before satisfaction",
+              "Most charges were secured against fixed deposits",
+              "Largest satisfied charge was from KOTAK MAHINDRA BANK LIMITED (100 Cr.)"
+          ]
       },
-      {
-        "id": 3,
-        "holder": "IDFC First Bank",
-        "amt": 160000000,
-        "date": "18-11-2023"
-      }
-    ]
+      "analysis": [
+          "Balanced distribution among three major financial institutions with HDFC Bank Limited holding the largest share at 34% of total charges",
+          "Total open charges of ₹8,882 Lakhs represent significant secured financing with an average charge value of ₹1,736 Lakhs",
+          "All open charges originated on the same date (19-04-2016), indicating a coordinated financing strategy",
+          "Average outstanding period of 4.64 years suggests good credit standing and consistent debt management",
+          "The company has successfully satisfied 9 charges worth ₹1,094.14 Lakhs, demonstrating strong repayment capability"
+      ]
   },
   "insights": {
-    "overview": [
-      "Advanced analysis of company performance, risks, and opportunities",
-      "Based on financial, market, and compliance data from multiple sources",
-      "Identifies key strengths, weaknesses, and potential red flags",
-      "Provides objective assessment of company's current position and outlook",
-      "Updated as of 28-01-2025 with latest available information",
-      "Highlights areas requiring attention or improvement"
-    ],
-    "key": {
-      "pos": [
-        "19.6% YoY revenue growth with 21.1% profit margin",
-        "Strong leadership team with complementary skills",
-        "Market share growth of 2.5 percentage points",
-        "Improved working capital management",
-        "Consistent growth over past 5 years"
+      "overview": [
+          "Advanced analysis of company performance, risks, and opportunities",
+          "Based on financial, market, and compliance data from multiple sources",
+          "Identifies key strengths, weaknesses, and potential red flags",
+          "Provides objective assessment of company's current position and outlook",
+          "Updated as of 10-05-2025 with latest available information",
+          "Highlights areas requiring attention or improvement"
       ],
-      "caution": [
-        "Increasing debt-to-equity ratio in last fiscal year",
-        "Limited board diversity affecting perspectives",
-        "Decreasing R&D investment as percentage of revenue",
-        "Supply chain disruptions affecting deliveries",
-        "Increasing competition pressuring margins"
-      ],
-      "red": [
-        "62% revenue from top 3 clients (dependency risk)",
-        "Multiple charges from different financial institutions",
-        "Increasing debt without corresponding growth",
-        "Concentrated decision-making among few directors",
-        "High turnover in middle management positions"
-      ]
-    }
-  },
-  "performance": {
-    "svg": "<svg width=\"800px\" height=\"800px\" viewBox=\"0 0 120 120\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><rect width=\"120\" height=\"120\" fill=\"#EFF1F3\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M33.2503 38.4816C33.2603 37.0472 34.4199 35.8864 35.8543 35.875H83.1463C84.5848 35.875 85.7503 37.0431 85.7503 38.4816V80.5184C85.7403 81.9528 84.5807 83.1136 83.1463 83.125H35.8543C34.4158 83.1236 33.2503 81.957 33.2503 80.5184V38.4816ZM80.5006 41.1251H38.5006V77.8751L62.8921 53.4783C63.9172 52.4536 65.5788 52.4536 66.6039 53.4783L80.5006 67.4013V41.1251ZM43.75 51.6249C43.75 54.5244 46.1005 56.8749 49 56.8749C51.8995 56.8749 54.25 54.5244 54.25 51.6249C54.25 48.7254 51.8995 46.3749 49 46.3749C46.1005 46.3749 43.75 48.7254 43.75 51.6249Z\" fill=\"#687787\"/></svg>"
+      "key": {
+          "pos": [
+              "Established publicly traded company with 15 years of operations",
+              "Strong leadership team with experienced directors",
+              "Significant paid-up capital of over 96,503 lakhs",
+              "Clear brand identity and online presence with www.zomato.com",
+              "Regular statutory filings and compliance with AGM held in 2024"
+          ],
+          "caution": [
+              "Multiple bank charges indicating significant debt obligations",
+              "Past board turnover with 11 former directors",
+              "Potential risks associated with the food delivery industry",
+              "Directors with multiple board positions may have divided attention",
+              "Regulatory requirements of being a public company"
+          ],
+          "red": [
+              "Recent bank charges potentially indicating ongoing capital needs",
+              "Significant disparity between authorized and paid-up capital",
+              "Corporate structure changes indicated by name change to ETERNAL LIMITED",
+              "Heavy reliance on banking finance as indicated by charge history",
+              "Industry competitive pressures in food delivery and tech space"
+          ]
+      }
   }
 }
