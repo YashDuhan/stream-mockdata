@@ -1,410 +1,2104 @@
 {
-  "summary": {
-      "active": true,
-      "profile": {
-          "age": "15 years",
-          "est": "2010-01-18"
+  "InstaSummary": {
+    "CompanyMasterSummary": {
+      "LastUpdatedDateTime": "23-05-2025",
+      "CompanyCIN": "L93030DL2010PLC198141",
+      "CompanyName": "ETERNAL LIMITED",
+      "CompanyPan": "AADCD4946L",
+      "CompanyDateOfInc": "18-01-2010",
+      "CompanyRocCity": "RoC-Delhi",
+      "CompanyRegNumber": "198141",
+      "CompanyCategory": "Company limited by shares",
+      "CompanySubCategory": "Indian Non-Government Company",
+      "CompanyClass": "Public Company",
+      "CompanyAuthCapital": "14486329341",
+      "CompanyPaidUpCapital": "9650350647",
+      "CompanyFullAddress": "GROUND FLOOR 12A; 94 MEGHDOOT NEHRU PLACE NA; NEW DELHI; South Delhi; Delhi; 110019; India",
+      "CompanyRegState": "Delhi",
+      "CompanyRegCity": "NEW DELHI",
+      "CompanyRegPinCode": "110019",
+      "CompanyBookAddress": "Pioneer Square, Tower 1 - Ground to 6th Floor Near Golf Course Extension, Sector 62,, NA, Gurugram, Haryana 122101, India",
+      "CompanyMcaStatus": "Active",
+      "CompanyLastAgmDate": "28-08-2024",
+      "CompanyLastBsDate": "31-03-2024",
+      "CompanyEmail": "secretarial@zomato.com",
+      "CompanyWebSite": "www.zomato.com",
+      "CompanyMcaIndustry": "Funeral and related activities",
+      "CompanyMcaIndustryDivision": "OTHER SERVICE ACTIVITIES",
+      "CompanyMcaIndustryGroup": "Other service activities"
+    },
+    "DirectorSignatoryMasterSummary": {
+      "LastUpdatedDateTime": "23-05-2025",
+      "DirectorCurrentMasterSummary": {
+        "Director": [
+          {
+            "DirectorName": "KAUSHIK DUTTA",
+            "DirectorDin": "03328890",
+            "DirectorDesignation": "Director",
+            "DirectorDateOfAppnt": "05-03-2021",
+            "DirectorDateOfBirth": "01-05-1962",
+            "DirectorPANNumber": "AGYPD3424F",
+            "DirectorEmail": "k.dutta62@yahoo.co.in",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "843;Lavy Pinto Block Asiad Games Village New Delhi; Khel Gaon South Delhi Delhi 110049 India",
+            "DirectorPresentCity": "South Delhi",
+            "DirectorPresentState": "DL",
+            "DirectorPermanentAddress": "843;Lavy Pinto Block South Delhi Delhi 110049 India",
+            "DirectorPermanentCity": "South Delhi",
+            "DirectorPermanentState": "DL",
+            "DirectorCapitalization": "70971173395",
+            "DirectorAvgCapitalization": "5459321030",
+            "DirectorCurrentDirectorshipCount": "13",
+            "DirectorPastDirectorshipCount": "11",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "SANJEEV BIKHCHANDANI",
+            "DirectorDin": "00065640",
+            "DirectorDesignation": "Nominee Director",
+            "DirectorDateOfAppnt": "13-04-2018",
+            "DirectorDateOfBirth": "29-06-1963",
+            "DirectorPANNumber": "AAGPB4511R",
+            "DirectorEmail": "sanjeev@naukri.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "N-42;GROUND FLOOR PANCHSHEEL PARK;MALVIYA NAGAR South Delhi Delhi 110017 India",
+            "DirectorPresentCity": "South Delhi",
+            "DirectorPresentState": "DL",
+            "DirectorPermanentAddress": "N-42;GROUND FLOOR South Delhi Delhi 110017 India",
+            "DirectorPermanentCity": "South Delhi",
+            "DirectorPermanentState": "DL",
+            "DirectorCapitalization": "12183337037",
+            "DirectorAvgCapitalization": "812222469",
+            "DirectorCurrentDirectorshipCount": "15",
+            "DirectorPastDirectorshipCount": "2",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "SUTAPA BANERJEE",
+            "DirectorDin": "02844650",
+            "DirectorDesignation": "Director",
+            "DirectorDateOfAppnt": "19-04-2021",
+            "DirectorDateOfBirth": "24-03-1965",
+            "DirectorPANNumber": "AGBPB6003B",
+            "DirectorEmail": "sutapaban65@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "3003 A&B; 30TH FLOOR; SPRINGS I; G. D. AMBEKAR MARG; NAIGAON; DADAR EAST MUMBAI Maharashtra 400014 India",
+            "DirectorPresentCity": "MUMBAI",
+            "DirectorPresentState": "MH",
+            "DirectorPermanentAddress": "3003 A&B; 30TH FLOOR; SPRINGS I; G. D. AMBEKAR MARG; MUMBAI Maharashtra 400014 India",
+            "DirectorPermanentCity": "MUMBAI",
+            "DirectorPermanentState": "MH",
+            "DirectorCapitalization": "40127101547",
+            "DirectorAvgCapitalization": "5015887693",
+            "DirectorCurrentDirectorshipCount": "8",
+            "DirectorPastDirectorshipCount": "16",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "DEEPINDER GOYAL",
+            "DirectorDin": "02613583",
+            "DirectorDesignation": "Managing Director",
+            "DirectorDateOfAppnt": "24-03-2021",
+            "DirectorDateOfBirth": "26-01-1983",
+            "DirectorPANNumber": "AKXPG9683Q",
+            "DirectorEmail": "deepinder@zomato.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "B-1/11; DLF PHASE 1 SIKANDERPUR GHOSHI (68) GURGAON Haryana 122002 India",
+            "DirectorPresentCity": "GURGAON",
+            "DirectorPresentState": "HR",
+            "DirectorPermanentAddress": "B-1/11; DLF PHASE 1 GURGAON Haryana 122002 India",
+            "DirectorPermanentCity": "GURGAON",
+            "DirectorPermanentState": "HR",
+            "DirectorCapitalization": "9654373184",
+            "DirectorAvgCapitalization": "4827186592",
+            "DirectorCurrentDirectorshipCount": "5",
+            "DirectorPastDirectorshipCount": "3",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "DEEPINDER GOYAL",
+            "DirectorDin": "02613583",
+            "DirectorDesignation": "Managing Director",
+            "DirectorDateOfAppnt": "24-03-2021",
+            "DirectorDateOfBirth": "26-01-1983",
+            "DirectorPANNumber": "AKXPG9683Q",
+            "DirectorEmail": "deepinder@zomato.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "B-1/11; DLF PHASE 1 SIKANDERPUR GHOSHI (68) GURGAON Haryana 122002 India",
+            "DirectorPresentCity": "GURGAON",
+            "DirectorPresentState": "HR",
+            "DirectorPermanentAddress": "B-1/11; DLF PHASE 1 GURGAON Haryana 122002 India",
+            "DirectorPermanentCity": "GURGAON",
+            "DirectorPermanentState": "HR",
+            "DirectorCapitalization": "9654373184",
+            "DirectorAvgCapitalization": "4827186592",
+            "DirectorCurrentDirectorshipCount": "5",
+            "DirectorPastDirectorshipCount": "3",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "NAMITA GUPTA",
+            "DirectorDin": "07337772",
+            "DirectorDesignation": "Director",
+            "DirectorDateOfAppnt": "05-03-2021",
+            "DirectorDateOfBirth": "19-07-1978",
+            "DirectorPANNumber": "BOIPG6976A",
+            "DirectorEmail": "namita.gupta@gmail.com",
+            "DirectorNationality": "US",
+            "DirectorPresentAddress": "E-71; PHASE-5 DLF BELAIRE; GOLF COURSE ROAD GURGAON Haryana 122002 India",
+            "DirectorPresentCity": "GURGAON",
+            "DirectorPresentState": "HR",
+            "DirectorPermanentAddress": "E-71; PHASE-5 GURGAON Haryana 122002 India",
+            "DirectorPermanentCity": "GURGAON",
+            "DirectorPermanentState": "HR",
+            "DirectorCapitalization": "12902288147",
+            "DirectorAvgCapitalization": "4300762715",
+            "DirectorCurrentDirectorshipCount": "5",
+            "DirectorPastDirectorshipCount": "0",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "NAMITA GUPTA",
+            "DirectorDin": "07337772",
+            "DirectorDesignation": "Director",
+            "DirectorDateOfAppnt": "05-03-2021",
+            "DirectorDateOfBirth": "19-07-1978",
+            "DirectorPANNumber": "BOIPG6976A",
+            "DirectorEmail": "namita.gupta@gmail.com",
+            "DirectorNationality": "US",
+            "DirectorPresentAddress": "E-71; PHASE-5 DLF BELAIRE; GOLF COURSE ROAD GURGAON Haryana 122002 India",
+            "DirectorPresentCity": "GURGAON",
+            "DirectorPresentState": "HR",
+            "DirectorPermanentAddress": "E-71; PHASE-5 GURGAON Haryana 122002 India",
+            "DirectorPermanentCity": "GURGAON",
+            "DirectorPermanentState": "HR",
+            "DirectorCapitalization": "12902288147",
+            "DirectorAvgCapitalization": "4300762715",
+            "DirectorCurrentDirectorshipCount": "5",
+            "DirectorPastDirectorshipCount": "0",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "APARNA POPAT VED",
+            "DirectorDin": "08661466",
+            "DirectorDesignation": "Director",
+            "DirectorDateOfAppnt": "26-06-2021",
+            "DirectorDateOfBirth": "18-01-1978",
+            "DirectorPANNumber": "AFRPP6124J",
+            "DirectorEmail": "aparna.popat@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "11valentina N. Gamadia Road;Prddar Road Mumbai Mumbai Maharashtra 400026 India",
+            "DirectorPresentCity": "Mumbai",
+            "DirectorPresentState": "MH",
+            "DirectorPermanentAddress": "11valentina N. Gamadia Road;Prddar Road Mumbai Maharashtra 400026 India",
+            "DirectorPermanentCity": "Mumbai",
+            "DirectorPermanentState": "MH",
+            "DirectorCapitalization": "30924978037",
+            "DirectorAvgCapitalization": "10308326012",
+            "DirectorCurrentDirectorshipCount": "6",
+            "DirectorPastDirectorshipCount": "0",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "APARNA POPAT VED",
+            "DirectorDin": "08661466",
+            "DirectorDesignation": "Director",
+            "DirectorDateOfAppnt": "26-06-2021",
+            "DirectorDateOfBirth": "18-01-1978",
+            "DirectorPANNumber": "AFRPP6124J",
+            "DirectorEmail": "aparna.popat@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "11valentina N. Gamadia Road;Prddar Road Mumbai Mumbai Maharashtra 400026 India",
+            "DirectorPresentCity": "Mumbai",
+            "DirectorPresentState": "MH",
+            "DirectorPermanentAddress": "11valentina N. Gamadia Road;Prddar Road Mumbai Maharashtra 400026 India",
+            "DirectorPermanentCity": "Mumbai",
+            "DirectorPermanentState": "MH",
+            "DirectorCapitalization": "30924978037",
+            "DirectorAvgCapitalization": "10308326012",
+            "DirectorCurrentDirectorshipCount": "6",
+            "DirectorPastDirectorshipCount": "0",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "APARNA POPAT VED",
+            "DirectorDin": "08661466",
+            "DirectorDesignation": "Additional Director",
+            "DirectorDateOfAppnt": "19-04-2021",
+            "DirectorDateOfBirth": "18-01-1978",
+            "DirectorPANNumber": "AFRPP6124J",
+            "DirectorEmail": "aparna.popat@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "11valentina N. Gamadia Road;Prddar Road Mumbai Mumbai Maharashtra 400026 India",
+            "DirectorPresentCity": "Mumbai",
+            "DirectorPresentState": "MH",
+            "DirectorPermanentAddress": "11valentina N. Gamadia Road;Prddar Road Mumbai Maharashtra 400026 India",
+            "DirectorPermanentCity": "Mumbai",
+            "DirectorPermanentState": "MH",
+            "DirectorCapitalization": "30924978037",
+            "DirectorAvgCapitalization": "10308326012",
+            "DirectorCurrentDirectorshipCount": "6",
+            "DirectorPastDirectorshipCount": "0",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          }
+        ]
       },
-      "capital": {
-          "authinLakhs": 144863.29,
-          "paidinLakhs": 96503.51
+      "DirectorPastMasterSummary": {
+        "Director": [
+          {
+            "DirectorName": "IREENA VITTAL",
+            "DirectorDin": "05195656",
+            "DirectorDesignation": "Nominee Director",
+            "DirectorDateOfAppnt": "22-04-2014",
+            "DirectorDateOfCessation": "23-04-2018",
+            "DirectorDateOfBirth": "02-10-1968",
+            "DirectorPANNumber": "AADPV1333J",
+            "DirectorEmail": "vittalireena@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "4 ALHAMBRA; CARMICHAEL ROAD MUMBAI Maharashtra 400026 India",
+            "DirectorPresentCity": "MUMBAI",
+            "DirectorPresentState": "MH",
+            "DirectorPermanentAddress": "4 ALHAMBRA; MUMBAI Maharashtra 400026 India",
+            "DirectorPermanentCity": "MUMBAI",
+            "DirectorPermanentState": "MH",
+            "DirectorCapitalization": "6238103663",
+            "DirectorAvgCapitalization": "891157666",
+            "DirectorCurrentDirectorshipCount": "11",
+            "DirectorPastDirectorshipCount": "22",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "MOHIT BHATNAGAR ANAND",
+            "DirectorDin": "00381741",
+            "DirectorDesignation": "Director",
+            "DirectorDateOfAppnt": "06-11-2013",
+            "DirectorDateOfCessation": "null",
+            "DirectorDateOfBirth": "30-06-1969",
+            "DirectorPANNumber": "AFYPB4648E",
+            "DirectorEmail": "mohitbhatnagar69@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "1/7; Shanti Niketan; Chanakya Puri South West Delhi Delhi Delhi 110021 India",
+            "DirectorPresentCity": "Delhi",
+            "DirectorPresentState": "DL",
+            "DirectorPermanentAddress": "1/7; Shanti Niketan; Chanakya Puri Delhi Delhi 110021 India",
+            "DirectorPermanentCity": "Delhi",
+            "DirectorPermanentState": "DL",
+            "DirectorCapitalization": "42491351",
+            "DirectorAvgCapitalization": "14163783",
+            "DirectorCurrentDirectorshipCount": "3",
+            "DirectorPastDirectorshipCount": "17",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "SUDHIR BHARGAVA",
+            "DirectorDin": "02325281",
+            "DirectorDesignation": "Nominee director",
+            "DirectorDateOfAppnt": "26-07-2010",
+            "DirectorDateOfCessation": "null",
+            "DirectorDateOfBirth": "09-06-1969",
+            "DirectorPANNumber": "AAFPB9689R",
+            "DirectorEmail": "bhargava.sudhir@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "21-C; Shatabdi Vihar; Sector 61; Noida Uttar Pradesh 201301 India",
+            "DirectorPresentCity": "Noida",
+            "DirectorPresentState": "UP",
+            "DirectorPermanentAddress": "21-C; Shatabdi Vihar; Noida Uttar Pradesh 201301 India",
+            "DirectorPermanentCity": "Noida",
+            "DirectorPermanentState": "UP",
+            "DirectorCapitalization": "0",
+            "DirectorAvgCapitalization": "0",
+            "DirectorCurrentDirectorshipCount": "0",
+            "DirectorPastDirectorshipCount": "10",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "PANKAJ CHADDAH",
+            "DirectorDin": "02625858",
+            "DirectorDesignation": "Nominee Director",
+            "DirectorDateOfAppnt": "18-01-2010",
+            "DirectorDateOfCessation": "null",
+            "DirectorDateOfBirth": "23-12-1985",
+            "DirectorPANNumber": "AIAPC8595J",
+            "DirectorEmail": "pankaj@mindhouse.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "702; Heritage City; Block-24 M.G. Road; Sector- 25 Nathupur (67) Gurgaon Haryana 122002 India",
+            "DirectorPresentCity": "Gurgaon",
+            "DirectorPresentState": "HR",
+            "DirectorPermanentAddress": "702; Heritage City; Block-24 M.G. Road; Sector- 25 Gurgaon Haryana 122002 India",
+            "DirectorPermanentCity": "Gurgaon",
+            "DirectorPermanentState": "HR",
+            "DirectorCapitalization": "271050",
+            "DirectorAvgCapitalization": "135525",
+            "DirectorCurrentDirectorshipCount": "2",
+            "DirectorPastDirectorshipCount": "3",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "CHEN YAN",
+            "DirectorDin": "07788454",
+            "DirectorDesignation": "Nominee Director",
+            "DirectorDateOfAppnt": "28-02-2018",
+            "DirectorDateOfCessation": "null",
+            "DirectorDateOfBirth": "05-08-1983",
+            "DirectorPANNumber": "null",
+            "DirectorEmail": "benny@bace.vc",
+            "DirectorNationality": "CN",
+            "DirectorPresentAddress": "null",
+            "DirectorPresentCity": "null",
+            "DirectorPresentState": "null",
+            "DirectorPermanentAddress": "null",
+            "DirectorPermanentCity": "null",
+            "DirectorPermanentState": "null",
+            "DirectorCapitalization": "0",
+            "DirectorAvgCapitalization": "0",
+            "DirectorCurrentDirectorshipCount": "0",
+            "DirectorPastDirectorshipCount": "7",
+            "DINStatus": "Deactivated",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "DOUGLAS LEHMAN FEAGIN",
+            "DirectorDin": "07868696",
+            "DirectorDesignation": "Nominee Director",
+            "DirectorDateOfAppnt": "28-02-2018",
+            "DirectorDateOfCessation": "null",
+            "DirectorDateOfBirth": "15-02-1966",
+            "DirectorPANNumber": "null",
+            "DirectorEmail": "flora.h@antgroup.com",
+            "DirectorNationality": "US",
+            "DirectorPresentAddress": "null",
+            "DirectorPresentCity": "null",
+            "DirectorPresentState": "null",
+            "DirectorPermanentAddress": "null",
+            "DirectorPermanentCity": "null",
+            "DirectorPermanentState": "null",
+            "DirectorCapitalization": "17350000",
+            "DirectorAvgCapitalization": "17350000",
+            "DirectorCurrentDirectorshipCount": "1",
+            "DirectorPastDirectorshipCount": "3",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "GUOMING CHENG",
+            "DirectorDin": "07877715",
+            "DirectorDesignation": "Nominee Director",
+            "DirectorDateOfAppnt": "25-05-2019",
+            "DirectorDateOfCessation": "null",
+            "DirectorDateOfBirth": "04-10-1972",
+            "DirectorPANNumber": "null",
+            "DirectorEmail": "gm.cheng@antgroup.com",
+            "DirectorNationality": "HK",
+            "DirectorPresentAddress": "null",
+            "DirectorPresentCity": "null",
+            "DirectorPresentState": "null",
+            "DirectorPermanentAddress": "null",
+            "DirectorPermanentCity": "null",
+            "DirectorPermanentState": "null",
+            "DirectorCapitalization": "0",
+            "DirectorAvgCapitalization": "0",
+            "DirectorCurrentDirectorshipCount": "0",
+            "DirectorPastDirectorshipCount": "4",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "GUNJAN TILAK RAJ SONI",
+            "DirectorDin": "07333270",
+            "DirectorDesignation": "Director",
+            "DirectorDateOfAppnt": "26-06-2021",
+            "DirectorDateOfCessation": "null",
+            "DirectorDateOfBirth": "18-08-1979",
+            "DirectorPANNumber": "AOVPS6813E",
+            "DirectorEmail": "gunjan.soni18@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "Villa No. G -1 Epsilon Residential Complex Off Old Airport Road Yemalur Bangalore South Karnataka 560037 India",
+            "DirectorPresentCity": "Bangalore South",
+            "DirectorPresentState": "KA",
+            "DirectorPermanentAddress": "Villa No. G -1 Epsilon Residential Complex Bangalore South Karnataka 560037 India",
+            "DirectorPermanentCity": "Bangalore South",
+            "DirectorPermanentState": "KA",
+            "DirectorCapitalization": "0",
+            "DirectorAvgCapitalization": "0",
+            "DirectorCurrentDirectorshipCount": "0",
+            "DirectorPastDirectorshipCount": "5",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "GUNJAN TILAK RAJ SONI",
+            "DirectorDin": "07333270",
+            "DirectorDesignation": "Director",
+            "DirectorDateOfAppnt": "26-06-2021",
+            "DirectorDateOfCessation": "null",
+            "DirectorDateOfBirth": "18-08-1979",
+            "DirectorPANNumber": "AOVPS6813E",
+            "DirectorEmail": "gunjan.soni18@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "Villa No. G -1 Epsilon Residential Complex Off Old Airport Road Yemalur Bangalore South Karnataka 560037 India",
+            "DirectorPresentCity": "Bangalore South",
+            "DirectorPresentState": "KA",
+            "DirectorPermanentAddress": "Villa No. G -1 Epsilon Residential Complex Bangalore South Karnataka 560037 India",
+            "DirectorPermanentCity": "Bangalore South",
+            "DirectorPermanentState": "KA",
+            "DirectorCapitalization": "0",
+            "DirectorAvgCapitalization": "0",
+            "DirectorCurrentDirectorshipCount": "0",
+            "DirectorPastDirectorshipCount": "5",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "GUNJAN TILAK RAJ SONI",
+            "DirectorDin": "07333270",
+            "DirectorDesignation": "Additional Director",
+            "DirectorDateOfAppnt": "19-04-2021",
+            "DirectorDateOfCessation": "26-06-2021",
+            "DirectorDateOfBirth": "18-08-1979",
+            "DirectorPANNumber": "AOVPS6813E",
+            "DirectorEmail": "gunjan.soni18@gmail.com",
+            "DirectorNationality": "IN",
+            "DirectorPresentAddress": "Villa No. G -1 Epsilon Residential Complex Off Old Airport Road Yemalur Bangalore South Karnataka 560037 India",
+            "DirectorPresentCity": "Bangalore South",
+            "DirectorPresentState": "KA",
+            "DirectorPermanentAddress": "Villa No. G -1 Epsilon Residential Complex Bangalore South Karnataka 560037 India",
+            "DirectorPermanentCity": "Bangalore South",
+            "DirectorPermanentState": "KA",
+            "DirectorCapitalization": "0",
+            "DirectorAvgCapitalization": "0",
+            "DirectorCurrentDirectorshipCount": "0",
+            "DirectorPastDirectorshipCount": "5",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          },
+          {
+            "DirectorName": "ZHENG LIU",
+            "DirectorDin": "08078736",
+            "DirectorDesignation": "Alternate Director",
+            "DirectorDateOfAppnt": "05-03-2018",
+            "DirectorDateOfCessation": "null",
+            "DirectorDateOfBirth": "15-02-1983",
+            "DirectorPANNumber": "null",
+            "DirectorEmail": "gary.liu@antgroup.com",
+            "DirectorNationality": "HK",
+            "DirectorPresentAddress": "null",
+            "DirectorPresentCity": "null",
+            "DirectorPresentState": "null",
+            "DirectorPermanentAddress": "null",
+            "DirectorPermanentCity": "null",
+            "DirectorPermanentState": "null",
+            "DirectorCapitalization": "0",
+            "DirectorAvgCapitalization": "0",
+            "DirectorCurrentDirectorshipCount": "0",
+            "DirectorPastDirectorshipCount": "1",
+            "DINStatus": "Approved",
+            "DisqualifiedByRoCUnderSection164_2": "No"
+          }
+        ]
       },
-      "business": {
-          "act": "Arts; entertainment and recreation",
-          "nic": "Sports activities and amusement and recreation activities"
+      "PotentialRelatedPartyMasterSummary": {
+        "RelatedParty": [
+          {
+            "CompanyCin": "U73100DL2011NPL216803",
+            "CompanyName": "Thought arbitrage research institute",
+            "CompanyDateOfInc": "30-03-2011",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "RESEARCH AND DEVELOPMENT",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "100000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74140DL2010PTC202426",
+            "CompanyName": "Centennial development advisory services india private limited",
+            "CompanyDateOfInc": "08-05-2010",
+            "CompanyMcaStatus": "Strike Off",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2016",
+            "CompanyPaidUpCapital": "100000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74900DL2010PLC203968",
+            "CompanyName": "LIFESTYLE & MEDIA HOLDINGS LIMITED",
+            "CompanyDateOfInc": "10-06-2010",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2023",
+            "CompanyPaidUpCapital": "310302220",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U72200DL2006PLC156530",
+            "CompanyName": "Ndtv labs limited",
+            "CompanyDateOfInc": "13-12-2006",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "COMPUTER AND RELATED ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "133690080",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74900DL2015PTC286208",
+            "CompanyName": "ZOMATO HYPERPURE PRIVATE LIMITED",
+            "CompanyDateOfInc": "08-10-2015",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "398042440",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74900HR2011PTC044581",
+            "CompanyName": "PAISABAZAAR MARKETING AND CONSULTING PRIVATE LIMITED",
+            "CompanyDateOfInc": "15-12-2011",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "448241790",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "L51909HR2008PLC037998",
+            "CompanyName": "PB FINTECH LIMITED",
+            "CompanyDateOfInc": "04-06-2008",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "WHOLESALE TRADE AND COMMISSION TRADE; EXCEPT OF MOTOR VEHICLES AND MOTORCYCLES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "918514564",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74999DL2018PTC331205",
+            "CompanyName": "RESILIENT INNOVATIONS PRIVATE LIMITED",
+            "CompanyDateOfInc": "20-03-2018",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "36695401122",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U63030KA2015PLC079894",
+            "CompanyName": "ZINKA LOGISTICS SOLUTIONS LIMITED",
+            "CompanyDateOfInc": "20-04-2015",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "SUPPORTING AND AUXILLIARY TRANSPORT ACTIVITIES; ACTIVITIES OF TRAVEL AGENCIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "176478737",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U40100KA2013PLC093769",
+            "CompanyName": "ATHER ENERGY LIMITED",
+            "CompanyDateOfInc": "21-10-2013",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "ELECTRICITY; GAS; STEAM AND HOT WATER SUPPLY",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "372459668",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74899DL1991PLC046774",
+            "CompanyName": "Hero fincorp limited",
+            "CompanyDateOfInc": "16-12-1991",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "21274127390",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U72900DL2011PTC225614",
+            "CompanyName": "SHIPROCKET PRIVATE LIMITED",
+            "CompanyDateOfInc": "28-09-2011",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "COMPUTER AND RELATED ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "593364737",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "L74899DL1995PLC068021",
+            "CompanyName": "Info edge (india) limited",
+            "CompanyDateOfInc": "01-05-1995",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "1295841200",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U72400DL2008PTC181632",
+            "CompanyName": "Allcheckdeals india private limited",
+            "CompanyDateOfInc": "01-08-2008",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "COMPUTER AND RELATED ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "98475000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U72900DL1999PTC102749",
+            "CompanyName": "Jeevansathi internet services private limited",
+            "CompanyDateOfInc": "09-12-1999",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "COMPUTER AND RELATED ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "100000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U73100GJ2008NPL054284",
+            "CompanyName": "Ciie initiatives",
+            "CompanyDateOfInc": "23-06-2008",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "RESEARCH AND DEVELOPMENT",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "4000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74899DL1999PLC102748",
+            "CompanyName": "NAUKRI INTERNET SERVICES LIMITED",
+            "CompanyDateOfInc": "09-12-1999",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "32500000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74999HR2010PLC092002",
+            "CompanyName": "MakeSense Technologies Limited",
+            "CompanyDateOfInc": "21-09-2010",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "12165000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U80904DL2008NPL181771",
+            "CompanyName": "International foundation for research and education",
+            "CompanyDateOfInc": "06-08-2008",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "EDUCATION",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "0",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74140DL2015PLC277487",
+            "CompanyName": "Startup Investments (Holding) Limited",
+            "CompanyDateOfInc": "04-03-2015",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2023",
+            "CompanyPaidUpCapital": "243766700",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U72200DL2015PLC285985",
+            "CompanyName": "STARTUP INTERNET SERVICES LIMITED",
+            "CompanyDateOfInc": "05-10-2015",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "COMPUTER AND RELATED ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2023",
+            "CompanyPaidUpCapital": "8500000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74110DL2014PTC271360",
+            "CompanyName": "CALANGUTE ADVISORY SERVICES PRIVATE LIMITED",
+            "CompanyDateOfInc": "08-09-2014",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2023",
+            "CompanyPaidUpCapital": "300000000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U72900DL2010PTC207653",
+            "CompanyName": "Highorbit careers private limited",
+            "CompanyDateOfInc": "30-08-2010",
+            "CompanyMcaStatus": "Amalgamated",
+            "CompanyMcaIndustry": "COMPUTER AND RELATED ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2021",
+            "CompanyPaidUpCapital": "324490",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U72900DL2020PLC365716",
+            "CompanyName": "REDSTART LABS (INDIA) LIMITED",
+            "CompanyDateOfInc": "07-07-2020",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "COMPUTER AND RELATED ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2023",
+            "CompanyPaidUpCapital": "200100000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U72300DL2015PLC285618",
+            "CompanyName": "SMARTWEB INTERNET SERVICES LIMITED",
+            "CompanyDateOfInc": "23-09-2015",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "COMPUTER AND RELATED ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "341110000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74999DL2017NPL317632",
+            "CompanyName": "GOVERNMENT EMARKETPLACE",
+            "CompanyDateOfInc": "17-05-2017",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "100000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "L67120MH2001PLC217751",
+            "CompanyName": "Jsw holdings limited",
+            "CompanyDateOfInc": "12-07-2001",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "ACTIVITIES AUXILIARY TO FINANCIAL INTERMEDIATION",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "110996250",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U26957MH2006PLC160839",
+            "CompanyName": "Jsw cement limited",
+            "CompanyDateOfInc": "29-03-2006",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "MANUFACTURE OF OTHER NON-METALLIC MINERAL PRODUCTS",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "26188589220",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U51900MH2005PLC157853",
+            "CompanyName": "Axis capital limited",
+            "CompanyDateOfInc": "06-12-2005",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "WHOLESALE TRADE AND COMMISSION TRADE; EXCEPT OF MOTOR VEHICLES AND MOTORCYCLES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "735000000",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "L74120MH1985PLC035308",
+            "CompanyName": "Godrej properties limited",
+            "CompanyDateOfInc": "08-02-1985",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "1505924390",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "L31300GJ1996PLC114183",
+            "CompanyName": "POLYCAB INDIA LIMITED",
+            "CompanyDateOfInc": "10-01-1996",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "MANUFACTURE OF ELECTRICAL MACHINERY AND APPARATUS N.E.C.",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "1504273980",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74999KA2017PTC165641",
+            "CompanyName": "SATSURE ANALYTICS INDIA PRIVATE LIMITED",
+            "CompanyDateOfInc": "22-09-2017",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "226130",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "L31401MH2007PLC167669",
+            "CompanyName": "IDEAFORGE TECHNOLOGY LIMITED",
+            "CompanyDateOfInc": "08-02-2007",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "MANUFACTURE OF ELECTRICAL MACHINERY AND APPARATUS N.E.C.",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "431740930",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U74140DL2014PTC274413",
+            "CompanyName": "URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED",
+            "CompanyDateOfInc": "22-12-2014",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "4022537",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U70200HR2024PTC120507",
+            "CompanyName": "UPSLOPE ADVISORS PRIVATE LIMITED",
+            "CompanyDateOfInc": "null",
+            "CompanyMcaStatus": "null",
+            "CompanyMcaIndustry": "REAL ESTATE ACTIVITIES",
+            "CompanyLastBsDate": "null",
+            "CompanyPaidUpCapital": "0",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U29268DL2016PTC290316",
+            "CompanyName": "AIRVEDA TECHNOLOGIES PRIVATE LIMITED",
+            "CompanyDateOfInc": "28-01-2016",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "MANUFACTURE OF MACHINERY AND EQUIPMENT N.E.C.",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "101400",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "L74999DL2016PLC306016",
+            "CompanyName": "HONASA CONSUMER LIMITED",
+            "CompanyDateOfInc": "16-09-2016",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+            "CompanyLastBsDate": "31-03-2024",
+            "CompanyPaidUpCapital": "3251836100",
+            "CommonDirectorCount": "1"
+          },
+          {
+            "CompanyCin": "U36930MH2020PTC335642",
+            "CompanyName": "SPORTSVKAN PRIVATE LIMITED",
+            "CompanyDateOfInc": "07-01-2020",
+            "CompanyMcaStatus": "Active",
+            "CompanyMcaIndustry": "MANUFACTURE OF FURNITURE; MANUFACTURING N.E.C.",
+            "CompanyLastBsDate": "31-03-2021",
+            "CompanyPaidUpCapital": "500000",
+            "CommonDirectorCount": "1"
+          }
+        ]
       },
-      "identity": {
-          "name": "ETERNAL LIMITED",
-          "cin": "L93030DL2010PLC198141",
-          "reg": "198141"
+      "DirectorCurrentDirectorshipMasterSummary": {
+        "Director": [
+          {
+            "DirectorName": "KAUSHIK DUTTA",
+            "DirectorDin": "03328890",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U73100DL2011NPL216803",
+                "CompanyName": "Thought arbitrage research institute",
+                "CompanyDateOfInc": "30-03-2011",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74140DL2010PTC202426",
+                "CompanyName": "Centennial development advisory services india private limited",
+                "CompanyDateOfInc": "08-05-2010",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74900DL2010PLC203968",
+                "CompanyName": "LIFESTYLE & MEDIA HOLDINGS LIMITED",
+                "CompanyDateOfInc": "10-06-2010",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U72200DL2006PLC156530",
+                "CompanyName": "Ndtv labs limited",
+                "CompanyDateOfInc": "13-12-2006",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74900DL2015PTC286208",
+                "CompanyName": "ZOMATO HYPERPURE PRIVATE LIMITED",
+                "CompanyDateOfInc": "08-10-2015",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74900HR2011PTC044581",
+                "CompanyName": "PAISABAZAAR MARKETING AND CONSULTING PRIVATE LIMITED",
+                "CompanyDateOfInc": "15-12-2011",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "L51909HR2008PLC037998",
+                "CompanyName": "PB FINTECH LIMITED",
+                "CompanyDateOfInc": "04-06-2008",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74999DL2018PTC331205",
+                "CompanyName": "RESILIENT INNOVATIONS PRIVATE LIMITED",
+                "CompanyDateOfInc": "20-03-2018",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U63030KA2015PLC079894",
+                "CompanyName": "ZINKA LOGISTICS SOLUTIONS LIMITED",
+                "CompanyDateOfInc": "20-04-2015",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U40100KA2013PLC093769",
+                "CompanyName": "ATHER ENERGY LIMITED",
+                "CompanyDateOfInc": "21-10-2013",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74899DL1991PLC046774",
+                "CompanyName": "Hero fincorp limited",
+                "CompanyDateOfInc": "16-12-1991",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "2"
+              },
+              {
+                "CompanyCin": "U72900DL2011PTC225614",
+                "CompanyName": "SHIPROCKET PRIVATE LIMITED",
+                "CompanyDateOfInc": "28-09-2011",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              }
+            ]
+          },
+          {
+            "DirectorName": "SANJEEV BIKHCHANDANI",
+            "DirectorDin": "00065640",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "L74899DL1995PLC068021",
+                "CompanyName": "Info edge (india) limited",
+                "CompanyDateOfInc": "01-05-1995",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U72400DL2008PTC181632",
+                "CompanyName": "Allcheckdeals india private limited",
+                "CompanyDateOfInc": "01-08-2008",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U72900DL1999PTC102749",
+                "CompanyName": "Jeevansathi internet services private limited",
+                "CompanyDateOfInc": "09-12-1999",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U73100GJ2008NPL054284",
+                "CompanyName": "Ciie initiatives",
+                "CompanyDateOfInc": "23-06-2008",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74899DL1999PLC102748",
+                "CompanyName": "NAUKRI INTERNET SERVICES LIMITED",
+                "CompanyDateOfInc": "09-12-1999",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74999HR2010PLC092002",
+                "CompanyName": "MakeSense Technologies Limited",
+                "CompanyDateOfInc": "21-09-2010",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U80904DL2008NPL181771",
+                "CompanyName": "International foundation for research and education",
+                "CompanyDateOfInc": "06-08-2008",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74140DL2015PLC277487",
+                "CompanyName": "Startup Investments (Holding) Limited",
+                "CompanyDateOfInc": "04-03-2015",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U72200DL2015PLC285985",
+                "CompanyName": "STARTUP INTERNET SERVICES LIMITED",
+                "CompanyDateOfInc": "05-10-2015",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74110DL2014PTC271360",
+                "CompanyName": "CALANGUTE ADVISORY SERVICES PRIVATE LIMITED",
+                "CompanyDateOfInc": "08-09-2014",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U72900DL2010PTC207653",
+                "CompanyName": "Highorbit careers private limited",
+                "CompanyDateOfInc": "30-08-2010",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U72900DL2020PLC365716",
+                "CompanyName": "REDSTART LABS (INDIA) LIMITED",
+                "CompanyDateOfInc": "07-07-2020",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U72300DL2015PLC285618",
+                "CompanyName": "SMARTWEB INTERNET SERVICES LIMITED",
+                "CompanyDateOfInc": "23-09-2015",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74999DL2017NPL317632",
+                "CompanyName": "GOVERNMENT EMARKETPLACE",
+                "CompanyDateOfInc": "17-05-2017",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              }
+            ]
+          },
+          {
+            "DirectorName": "SUTAPA BANERJEE",
+            "DirectorDin": "02844650",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "L67120MH2001PLC217751",
+                "CompanyName": "Jsw holdings limited",
+                "CompanyDateOfInc": "12-07-2001",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U26957MH2006PLC160839",
+                "CompanyName": "Jsw cement limited",
+                "CompanyDateOfInc": "29-03-2006",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U51900MH2005PLC157853",
+                "CompanyName": "Axis capital limited",
+                "CompanyDateOfInc": "06-12-2005",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "L74120MH1985PLC035308",
+                "CompanyName": "Godrej properties limited",
+                "CompanyDateOfInc": "08-02-1985",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "L31300GJ1996PLC114183",
+                "CompanyName": "POLYCAB INDIA LIMITED",
+                "CompanyDateOfInc": "10-01-1996",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74999KA2017PTC165641",
+                "CompanyName": "SATSURE ANALYTICS INDIA PRIVATE LIMITED",
+                "CompanyDateOfInc": "22-09-2017",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "L31401MH2007PLC167669",
+                "CompanyName": "IDEAFORGE TECHNOLOGY LIMITED",
+                "CompanyDateOfInc": "08-02-2007",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              }
+            ]
+          },
+          {
+            "DirectorName": "DEEPINDER GOYAL",
+            "DirectorDin": "02613583",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U74140DL2014PTC274413",
+                "CompanyName": "URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED",
+                "CompanyDateOfInc": "22-12-2014",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U70200HR2024PTC120507",
+                "CompanyName": "UPSLOPE ADVISORS PRIVATE LIMITED",
+                "CompanyDateOfInc": "null",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74140DL2014PTC274413",
+                "CompanyName": "URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED",
+                "CompanyDateOfInc": "22-12-2014",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              }
+            ]
+          },
+          {
+            "DirectorName": "DEEPINDER GOYAL",
+            "DirectorDin": "02613583",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U74140DL2014PTC274413",
+                "CompanyName": "URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED",
+                "CompanyDateOfInc": "22-12-2014",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U70200HR2024PTC120507",
+                "CompanyName": "UPSLOPE ADVISORS PRIVATE LIMITED",
+                "CompanyDateOfInc": "null",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74140DL2014PTC274413",
+                "CompanyName": "URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED",
+                "CompanyDateOfInc": "22-12-2014",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              }
+            ]
+          },
+          {
+            "DirectorName": "NAMITA GUPTA",
+            "DirectorDin": "07337772",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U29268DL2016PTC290316",
+                "CompanyName": "AIRVEDA TECHNOLOGIES PRIVATE LIMITED",
+                "CompanyDateOfInc": "28-01-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "L74999DL2016PLC306016",
+                "CompanyName": "HONASA CONSUMER LIMITED",
+                "CompanyDateOfInc": "16-09-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "L74999DL2016PLC306016",
+                "CompanyName": "HONASA CONSUMER LIMITED",
+                "CompanyDateOfInc": "16-09-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              }
+            ]
+          },
+          {
+            "DirectorName": "NAMITA GUPTA",
+            "DirectorDin": "07337772",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U29268DL2016PTC290316",
+                "CompanyName": "AIRVEDA TECHNOLOGIES PRIVATE LIMITED",
+                "CompanyDateOfInc": "28-01-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "L74999DL2016PLC306016",
+                "CompanyName": "HONASA CONSUMER LIMITED",
+                "CompanyDateOfInc": "16-09-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "L74999DL2016PLC306016",
+                "CompanyName": "HONASA CONSUMER LIMITED",
+                "CompanyDateOfInc": "16-09-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              }
+            ]
+          },
+          {
+            "DirectorName": "APARNA POPAT VED",
+            "DirectorDin": "08661466",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U36930MH2020PTC335642",
+                "CompanyName": "SPORTSVKAN PRIVATE LIMITED",
+                "CompanyDateOfInc": "07-01-2020",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74899DL1991PLC046774",
+                "CompanyName": "Hero fincorp limited",
+                "CompanyDateOfInc": "16-12-1991",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "2"
+              },
+              {
+                "CompanyCin": "U74899DL1991PLC046774",
+                "CompanyName": "Hero fincorp limited",
+                "CompanyDateOfInc": "16-12-1991",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "2"
+              }
+            ]
+          },
+          {
+            "DirectorName": "APARNA POPAT VED",
+            "DirectorDin": "08661466",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U36930MH2020PTC335642",
+                "CompanyName": "SPORTSVKAN PRIVATE LIMITED",
+                "CompanyDateOfInc": "07-01-2020",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74899DL1991PLC046774",
+                "CompanyName": "Hero fincorp limited",
+                "CompanyDateOfInc": "16-12-1991",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "2"
+              },
+              {
+                "CompanyCin": "U74899DL1991PLC046774",
+                "CompanyName": "Hero fincorp limited",
+                "CompanyDateOfInc": "16-12-1991",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "2"
+              }
+            ]
+          },
+          {
+            "DirectorName": "APARNA POPAT VED",
+            "DirectorDin": "08661466",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U36930MH2020PTC335642",
+                "CompanyName": "SPORTSVKAN PRIVATE LIMITED",
+                "CompanyDateOfInc": "07-01-2020",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "1"
+              },
+              {
+                "CompanyCin": "U74899DL1991PLC046774",
+                "CompanyName": "Hero fincorp limited",
+                "CompanyDateOfInc": "16-12-1991",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "2"
+              },
+              {
+                "CompanyCin": "U74899DL1991PLC046774",
+                "CompanyName": "Hero fincorp limited",
+                "CompanyDateOfInc": "16-12-1991",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647",
+                "CommonDirectorCount": "2"
+              }
+            ]
+          }
+        ]
       },
-      "dates": {
-          "inc": "18-01-2010",
-          "bs": "31-03-2024",
-          "agm": "28-08-2024"
+      "DirectorPastDirectorshipMasterSummary": {
+        "Director": [
+          {
+            "DirectorName": "IREENA VITTAL",
+            "DirectorDin": "05195656",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U93000DL2013NPL256042",
+                "CompanyName": "Vidhi centre for legal policy",
+                "CompanyDateOfInc": "29-07-2013",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "0"
+              },
+              {
+                "CompanyCin": "U80900DL2007NPL171093",
+                "CompanyName": "FOUNDATION TO EDUCATE GIRLS GLOBALLY",
+                "CompanyDateOfInc": "05-12-2007",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "EDUCATION",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "0"
+              },
+              {
+                "CompanyCin": "U85100DL2010NPL200169",
+                "CompanyName": "Jal Seva Charitable Foundation",
+                "CompanyDateOfInc": "15-03-2010",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "HEALTH AND SOCIAL WORK",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "17500"
+              },
+              {
+                "CompanyCin": "U74140DL2014PTC274413",
+                "CompanyName": "URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED",
+                "CompanyDateOfInc": "22-12-2014",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "4022537"
+              },
+              {
+                "CompanyCin": "L24220MH1945PLC004598",
+                "CompanyName": "Asian paints limited",
+                "CompanyDateOfInc": "24-10-1945",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "MANUFACTURE OF CHEMICALS AND CHEMICAL PRODUCTS",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "959197790"
+              },
+              {
+                "CompanyCin": "L34103DL1981PLC011375",
+                "CompanyName": "Maruti suzuki india limited",
+                "CompanyDateOfInc": "24-02-1981",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "MANUFACTURE OF MOTOR VEHICLES; TRAILERS AND SEMI-TRAILERS",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "1572012870"
+              },
+              {
+                "CompanyCin": "L24220MH1945PLC004598",
+                "CompanyName": "Asian paints limited",
+                "CompanyDateOfInc": "24-10-1945",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "MANUFACTURE OF CHEMICALS AND CHEMICAL PRODUCTS",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "959197790"
+              },
+              {
+                "CompanyCin": "U74140DL2014PTC274413",
+                "CompanyName": "URBANCLAP TECHNOLOGIES INDIA PRIVATE LIMITED",
+                "CompanyDateOfInc": "22-12-2014",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "4022537"
+              }
+            ]
+          },
+          {
+            "DirectorName": "MOHIT BHATNAGAR ANAND",
+            "DirectorDin": "00381741",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U65999KA2000FTC033945",
+                "CompanyName": "PEAK XV PARTNERS ADVISORS PRIVATE LIMITED",
+                "CompanyDateOfInc": "21-06-2000",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "FINANCIAL INTERMEDIATION; EXCEPT INSURANCE AND PENSION FUNDING",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "26734380"
+              },
+              {
+                "CompanyCin": "U85300KA2021NPL148543",
+                "CompanyName": "ACTCAPITAL FOUNDATION FOR SOCIAL IMPACT",
+                "CompanyDateOfInc": "17-06-2021",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "HEALTH AND SOCIAL WORK",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "1000"
+              },
+              {
+                "CompanyCin": "U74140MH2019PTC328769",
+                "CompanyName": "AMICA FINANCIAL TECHNOLOGIES PRIVATE LIMITED",
+                "CompanyDateOfInc": "01-08-2019",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "15755971"
+              }
+            ]
+          },
+          {
+            "DirectorName": "SUDHIR BHARGAVA",
+            "DirectorDin": "02325281"
+          },
+          {
+            "DirectorName": "DEEPINDER GOYAL",
+            "DirectorDin": "02613583",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "L93030DL2010PLC198141",
+                "CompanyName": "ETERNAL LIMITED",
+                "CompanyDateOfInc": "18-01-2010",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647"
+              },
+              {
+                "CompanyCin": "U70200HR2024PTC120507",
+                "CompanyName": "UPSLOPE ADVISORS PRIVATE LIMITED",
+                "CompanyDateOfInc": "null",
+                "CompanyMcaStatus": "null",
+                "CompanyMcaIndustry": "REAL ESTATE ACTIVITIES",
+                "CompanyLastBsDate": "null",
+                "CompanyPaidUpCapital": "0"
+              }
+            ]
+          },
+          {
+            "DirectorName": "PANKAJ CHADDAH",
+            "DirectorDin": "02625858",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U74999DL2018PTC337417",
+                "CompanyName": "RESFAS PRIVATE LIMITED",
+                "CompanyDateOfInc": "10-08-2018",
+                "CompanyMcaStatus": "Converted to LLP",
+                "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2023",
+                "CompanyPaidUpCapital": "100000"
+              },
+              {
+                "CompanyCin": "U74999DL2019PTC345876",
+                "CompanyName": "BLACKTAIL MINDHOUSE PRIVATE LIMITED",
+                "CompanyDateOfInc": "12-02-2019",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "171050"
+              }
+            ]
+          },
+          {
+            "DirectorName": "NAMITA GUPTA",
+            "DirectorDin": "07337772",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U29268DL2016PTC290316",
+                "CompanyName": "AIRVEDA TECHNOLOGIES PRIVATE LIMITED",
+                "CompanyDateOfInc": "28-01-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "MANUFACTURE OF MACHINERY AND EQUIPMENT N.E.C.",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "101400"
+              },
+              {
+                "CompanyCin": "L74999DL2016PLC306016",
+                "CompanyName": "HONASA CONSUMER LIMITED",
+                "CompanyDateOfInc": "16-09-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "3251836100"
+              }
+            ]
+          },
+          {
+            "DirectorName": "NAMITA GUPTA",
+            "DirectorDin": "07337772",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U29268DL2016PTC290316",
+                "CompanyName": "AIRVEDA TECHNOLOGIES PRIVATE LIMITED",
+                "CompanyDateOfInc": "28-01-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "MANUFACTURE OF MACHINERY AND EQUIPMENT N.E.C.",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "101400"
+              },
+              {
+                "CompanyCin": "L74999DL2016PLC306016",
+                "CompanyName": "HONASA CONSUMER LIMITED",
+                "CompanyDateOfInc": "16-09-2016",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "3251836100"
+              }
+            ]
+          },
+          {
+            "DirectorName": "CHEN YAN",
+            "DirectorDin": "07788454"
+          },
+          {
+            "DirectorName": "DOUGLAS LEHMAN FEAGIN",
+            "DirectorDin": "07868696",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U72900MH2017FTC289332",
+                "CompanyName": "ALIPAY (INDIA) PRIVATE LIMITED",
+                "CompanyDateOfInc": "05-01-2017",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "COMPUTER AND RELATED ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2022",
+                "CompanyPaidUpCapital": "17350000"
+              }
+            ]
+          },
+          {
+            "DirectorName": "GUOMING CHENG",
+            "DirectorDin": "07877715"
+          },
+          {
+            "DirectorName": "GUNJAN TILAK RAJ SONI",
+            "DirectorDin": "07333270"
+          },
+          {
+            "DirectorName": "GUNJAN TILAK RAJ SONI",
+            "DirectorDin": "07333270"
+          },
+          {
+            "DirectorName": "GUNJAN TILAK RAJ SONI",
+            "DirectorDin": "07333270"
+          },
+          {
+            "DirectorName": "ZHENG LIU",
+            "DirectorDin": "08078736"
+          },
+          {
+            "DirectorName": "APARNA POPAT VED",
+            "DirectorDin": "08661466",
+            "CompanyOtherDirecorship": [
+              {
+                "CompanyCin": "U36930MH2020PTC335642",
+                "CompanyName": "SPORTSVKAN PRIVATE LIMITED",
+                "CompanyDateOfInc": "07-01-2020",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "MANUFACTURE OF FURNITURE; MANUFACTURING N.E.C.",
+                "CompanyLastBsDate": "31-03-2021",
+                "CompanyPaidUpCapital": "500000"
+              },
+              {
+                "CompanyCin": "L93030DL2010PLC198141",
+                "CompanyName": "ETERNAL LIMITED",
+                "CompanyDateOfInc": "18-01-2010",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647"
+              },
+              {
+                "CompanyCin": "U74899DL1991PLC046774",
+                "CompanyName": "Hero fincorp limited",
+                "CompanyDateOfInc": "16-12-1991",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER BUSINESS ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "21274127390"
+              },
+              {
+                "CompanyCin": "L93030DL2010PLC198141",
+                "CompanyName": "ETERNAL LIMITED",
+                "CompanyDateOfInc": "18-01-2010",
+                "CompanyMcaStatus": "Active",
+                "CompanyMcaIndustry": "OTHER SERVICE ACTIVITIES",
+                "CompanyLastBsDate": "31-03-2024",
+                "CompanyPaidUpCapital": "9650350647"
+              }
+            ]
+          }
+        ]
       },
-      "class": [
-          "Indian Non-Government Company",
-          "Public Company",
-          "Company limited by Shares"
-      ]
-  },
-  "overview": {
-      "active": true,
-      "updated": "10-05-2025",
-      "identity": {
-          "name": "ETERNAL LIMITED",
-          "cin": "L93030DL2010PLC198141",
-          "reg": "198141"
-      },
-      "class": {
-          "compClass": "Public",
-          "compCat": "Company limited by Shares",
-          "active": true
-      },
-      "business": {
-          "ind": "Other service activities",
-          "nic": "Sports activities and amusement and recreation activities",
-          "dirs": 5
+      "SignatoryPastMasterSummary": {
+        "Signatory": [
+          {
+            "SignatoryName": "SANDHYA SETHIA",
+            "SignatoryPan": "ECXPS5529H",
+            "SignatoryDesignation": "Company Secretary",
+            "SignatoryDateOfAppnt": "21-01-2019"
+          },
+          {
+            "SignatoryName": "SEEMA KHANNA",
+            "SignatoryPan": "AFUPG8313H",
+            "SignatoryDesignation": "Company Secretary",
+            "SignatoryDateOfAppnt": "27-09-2017"
+          },
+          {
+            "SignatoryName": "AKRITI CHOPRA",
+            "SignatoryPan": "AHAPC8111D",
+            "SignatoryDesignation": "CFO(KMP)",
+            "SignatoryDateOfAppnt": "08-11-2019"
+          },
+          {
+            "SignatoryName": "AKSHANT GOYAL",
+            "SignatoryPan": "AIVPG9914G",
+            "SignatoryDesignation": "CFO(KMP)",
+            "SignatoryDateOfAppnt": "09-11-2020"
+          },
+          {
+            "SignatoryName": "DEEPINDER GOYAL",
+            "SignatoryPan": "AKXPG9683Q",
+            "SignatoryDesignation": "CEO(KMP)",
+            "SignatoryDateOfAppnt": "24-03-2021"
+          }
+        ]
       }
-  },
-  "financial": {
-      "authCap": "14486329341",
-      "paidCap": "9650350647"
-  },
-  "contact": {
-      "email": "secretarial@zomato.com",
-      "web": "www.zomato.com",
-      "addr": "GROUND FLOOR 12A; 94 MEGHDOOT NEHRU PLACE NA; NEW DELHI; South Delhi; Delhi; 110019; India"
-  },
-  "k_insights": {
-      "age": "15 years old",
-      "mgmt": "Managed by 5 directors",
-      "comp": "Active compliant company"
-  },
-  "dirs": {
-      "updated": "24-04-2025",
-      "info": [
-          "As of 24-04-2025 ETERNAL LIMITED has 5 directors having active directorship. Directors of ETERNAL LIMITED are DEEPINDER GOYAL, KAUSHIK DUTTA, SANJEEV BIKHCHANDANI, SUTAPA BANERJEE, APARNA POPAT VED.",
-          "There were 11 directors associated with the company who have resigned or holding past directorship.",
-          "The company is run by an experienced team of directors with diverse backgrounds and expertise.",
-          "The company has a mix of Managing Director, Nominee Director, and Independent Directors on its board.",
-          "The company has several foreign directors who have served in the past, indicating international business connections.",
-          "The directors in this company hold directorships in multiple other companies, suggesting extensive corporate experience and networks."
-      ],
-      "stats": {
-          "current": 5,
-          "deactivated": 11,
-          "disqualified": 0,
-          "signatories": 5
+    },
+    "ChargesMasterSummary": {
+      "LastUpdatedDateTime": "23-05-2025",
+      "OpenChargesMasterSummary": {
+        "Charge": [
+          {
+            "ChargeID": "100612890",
+            "ChargeHolderName": "ICICI BANK LIMITED",
+            "ChargeHolderAddress": "ICICI Bank Tower, Near Chakli Circle, Old Padra Road, , ,",
+            "ChargeAmount": "30000000.0",
+            "ChargeDateOfCreation": "10-08-2022",
+            "ChargeDateOfLastModification": "02-08-2024",
+            "ChargeAssetsSecured": "null"
+          },
+          {
+            "ChargeID": "100934592",
+            "ChargeHolderName": "ICICI BANK LIMITED",
+            "ChargeHolderAddress": "ICICI Bank Tower, Near Chakli Circle, Old Padra Road, , ,",
+            "ChargeAmount": "1000000.0",
+            "ChargeDateOfCreation": "01-06-2024",
+            "ChargeDateOfLastModification": "null",
+            "ChargeAssetsSecured": "null"
+          },
+          {
+            "ChargeID": "101093165",
+            "ChargeHolderName": "ICICI BANK LIMITED",
+            "ChargeHolderAddress": "ICICI Bank Tower, Near Chakli Circle, Old Padra Road, , ,",
+            "ChargeAmount": "500000",
+            "ChargeDateOfCreation": "29-04-2025",
+            "ChargeDateOfLastModification": "null",
+            "ChargeAssetsSecured": "null"
+          }
+        ]
       },
-      "current": [
+      "SatisfiedChargesMasterSummary": {
+        "Charge": [
           {
-              "name": "DEEPINDER GOYAL",
-              "din": "2613583",
-              "desig": "Managing Director",
-              "appt": "24-03-2021",
-              "total": 2,
-              "disq": false,
-              "deact": false
+            "ChargeID": "100286986",
+            "ChargeHolderName": "HDFC BANK LIMITED",
+            "ChargeHolderAddress": "Tower A G F-02, Global Business Park, MG Road, ,",
+            "ChargeAmount": "567600.0",
+            "ChargeDateOfCreation": "17-08-2019",
+            "ChargeDateOfLastModification": "null",
+            "ChargeDateOfSatisfaction": "14-01-2022",
+            "ChargeAssetsSecured": "Creation of charge on fixed deposit of the Company"
           },
           {
-              "name": "KAUSHIK DUTTA",
-              "din": "3328890",
-              "desig": "Director",
-              "appt": "05-03-2021",
-              "total": 13,
-              "disq": false,
-              "deact": false
+            "ChargeID": "100286983",
+            "ChargeHolderName": "HDFC BANK LIMITED",
+            "ChargeHolderAddress": "Tower A G F-02, Global Business Park, MG Road, ,",
+            "ChargeAmount": "258000.0",
+            "ChargeDateOfCreation": "16-08-2019",
+            "ChargeDateOfLastModification": "null",
+            "ChargeDateOfSatisfaction": "14-01-2022",
+            "ChargeAssetsSecured": "Creation of charge on fixed deposit of the Company"
           },
           {
-              "name": "SANJEEV BIKHCHANDANI",
-              "din": "65640",
-              "desig": "Nominee Director",
-              "appt": "13-04-2018",
-              "total": 15,
-              "disq": false,
-              "deact": false
+            "ChargeID": "100286989",
+            "ChargeHolderName": "HDFC BANK LIMITED",
+            "ChargeHolderAddress": "Tower A G F-02, Global Business Park, MG Road, ,",
+            "ChargeAmount": "1032000.0",
+            "ChargeDateOfCreation": "16-08-2019",
+            "ChargeDateOfLastModification": "null",
+            "ChargeDateOfSatisfaction": "14-01-2022",
+            "ChargeAssetsSecured": "Creation of charge on fixed deposit of the Company"
           },
           {
-              "name": "SUTAPA BANERJEE",
-              "din": "2844650",
-              "desig": "Director",
-              "appt": "19-04-2021",
-              "total": 8,
-              "disq": false,
-              "deact": false
+            "ChargeID": "100333312",
+            "ChargeHolderName": "KOTAK MAHINDRA BANK LIMITED",
+            "ChargeHolderAddress": "Kotak Aerocity, IBIS Commercial Block, Asset Area 9, Hospitality Dist, Delhi Aerocity, ,",
+            "ChargeAmount": "1000000000.0",
+            "ChargeDateOfCreation": "18-03-2020",
+            "ChargeDateOfLastModification": "null",
+            "ChargeDateOfSatisfaction": "12-10-2020",
+            "ChargeAssetsSecured": "Book debts; Floating charge; Movable property (not being pledge)"
           },
           {
-              "name": "APARNA POPAT VED",
-              "din": "8661466",
-              "desig": "Director",
-              "appt": "26-06-2021",
-              "total": 4,
-              "disq": false,
-              "deact": false
+            "ChargeID": "100446510",
+            "ChargeHolderName": "HDFC BANK LIMITED",
+            "ChargeHolderAddress": "Global Business Park,, Tower 1, MG Road, ,",
+            "ChargeAmount": "185584.0",
+            "ChargeDateOfCreation": "06-05-2021",
+            "ChargeDateOfLastModification": "null",
+            "ChargeDateOfSatisfaction": "07-03-2023",
+            "ChargeAssetsSecured": "Fixed Deposit (FD No.50300515389471)"
+          },
+          {
+            "ChargeID": "100467714",
+            "ChargeHolderName": "ICICI BANK LIMITED",
+            "ChargeHolderAddress": "ICICI Bank Tower, Near Chakli Circle, Old Padra Road, , ,",
+            "ChargeAmount": "907500000.0",
+            "ChargeDateOfCreation": "07-07-2021",
+            "ChargeDateOfLastModification": "31-12-2022",
+            "ChargeDateOfSatisfaction": "18-03-2023",
+            "ChargeAssetsSecured": "Fixed Deposit (FD No. 114713015563)"
           }
-      ],
-      "signatories": [
-          {
-              "name": "SANDHYA SETHIA",
-              "pan": "ECXPS5529H",
-              "desig": "Company Secretary",
-              "appt": "21-01-2019"
-          },
-          {
-              "name": "SEEMA KHANNA",
-              "pan": "AFUPG8313H",
-              "desig": "Company Secretary",
-              "appt": "27-09-2017"
-          },
-          {
-              "name": "AKRITI CHOPRA",
-              "pan": "AHAPC8111D",
-              "desig": "CFO(KMP)",
-              "appt": "08-11-2019"
-          },
-          {
-              "name": "AKSHANT GOYAL",
-              "pan": "AIVPG9914G",
-              "desig": "CFO(KMP)",
-              "appt": "09-11-2020"
-          },
-          {
-              "name": "DEEPINDER GOYAL",
-              "pan": "AKXPG9683Q",
-              "desig": "CEO(KMP)",
-              "appt": "24-03-2021"
-          }
-      ],
-      "past_directors": [
-          {
-              "name": "MOHIT BHATNAGAR ANAND",
-              "din": "381741",
-              "desig": "Director",
-              "appt": "06-11-2013"
-          },
-          {
-              "name": "SUDHIR BHARGAVA",
-              "din": "2325281",
-              "desig": "Nominee director",
-              "appt": "26-07-2010"
-          },
-          {
-              "name": "PANKAJ CHADDAH",
-              "din": "2625858",
-              "desig": "Nominee Director",
-              "appt": "18-01-2010"
-          },
-          {
-              "name": "IREENA VITTAL",
-              "din": "5195656",
-              "desig": "Nominee Director",
-              "appt": "22-04-2014"
-          },
-          {
-              "name": "CHEN YAN",
-              "din": "7788454",
-              "desig": "Nominee Director",
-              "appt": "28-02-2018"
-          },
-          {
-              "name": "DOUGLAS LEHMAN FEAGIN",
-              "din": "7868696",
-              "desig": "Nominee Director",
-              "appt": "28-02-2018"
-          },
-          {
-              "name": "ZHENG LIU",
-              "din": "8078736",
-              "desig": "Alternate Director",
-              "appt": "05-03-2018"
-          },
-          {
-              "name": "GUOMING CHENG",
-              "din": "7877715",
-              "desig": "Nominee Director",
-              "appt": "25-05-2019"
-          },
-          {
-              "name": "NAMITA GUPTA",
-              "din": "7337772",
-              "desig": "Director",
-              "appt": "05-03-2021"
-          },
-          {
-              "name": "GUNJAN TILAK RAJ SONI",
-              "din": "7333270",
-              "desig": "Director",
-              "appt": "26-06-2021"
-          },
-          {
-              "name": "GUNJAN TILAK RAJ SONI",
-              "din": "7333270",
-              "desig": "Additional Director",
-              "appt": "19-04-2021"
-          }
-      ],
-      "related": [
-          {
-              "name": "UPSLOPE ADVISORS PRIVATE LIMITED",
-              "cin": "U70200HR2024PTC120507",
-              "industry": "REAL ESTATE ACTIVITIES",
-              "status": "Active"
-          },
-          {
-              "name": "PB FINTECH LIMITED",
-              "cin": "L51909HR2008PLC037998",
-              "industry": "WHOLESALE TRADE AND COMMISSION TRADE",
-              "status": "Active"
-          },
-          {
-              "name": "SHIPROCKET PRIVATE LIMITED",
-              "cin": "U72900DL2011PTC225614",
-              "industry": "COMPUTER AND RELATED ACTIVITIES",
-              "status": "Active"
-          },
-          {
-              "name": "INFO EDGE (INDIA) LIMITED",
-              "cin": "L74899DL1995PLC068021",
-              "industry": "OTHER BUSINESS ACTIVITIES",
-              "status": "Active"
-          },
-          {
-              "name": "ZOMATO HYPERPURE PRIVATE LIMITED",
-              "cin": "U74900DL2015PTC286208",
-              "industry": "OTHER BUSINESS ACTIVITIES",
-              "status": "Active"
-          }
-      ],
-      "d_analysis": [
-          "The company has transformed from a privately held startup to a public listed entity with a professional board structure.",
-          "Multiple nominee directors from investor firms have served on the board, reflecting the company's funding history.",
-          "The current board includes a mix of founders, industry veterans, and independent directors.",
-          "The company has maintained good corporate governance with proper succession planning for key positions.",
-          "The directorship patterns indicate strategic alignment with the food delivery and tech ecosystem."
-      ]
-  },
-  "charges": {
-      "updated": "24-04-2025",
-      "overview": [
-          "As of 24-04-2025 ETERNAL LIMITED has total of 2 open charges with the charge amounting to ₹31,000,000 (₹3.1 Cr.).",
-          "These charges are provided by 1 charge holder which is ICICI Bank Limited.",
-          "ETERNAL LIMITED had total of 6 closed charges with total charges amounting to ₹1,939,343,184 (₹193.93 Cr.).",
-          "These charges were provided by 3 different charge holders. The highest contributor among the closed charge holders was KOTAK MAHINDRA BANK LIMITED amounting ₹1,000,000,000 (₹100 Cr.)."
-      ],
-      "openHolders": [
-          {
-              "label": "ICICI BANK LIMITED",
-              "value": 100
-          }
-      ],
-      "summary": {
-          "total": 2,
-          "totalValLakh": 310,
-          "avgValLakh": 155,
-          "avgAge": 2,
-          "totalOpen": 31000000
-      },
-      "openDetails": [
-          {
-              "id": 100934592,
-              "holder": "ICICI BANK LIMITED",
-              "amt": 1000000,
-              "date": "01-06-2024"
-          },
-          {
-              "id": 100612890,
-              "holder": "ICICI BANK LIMITED",
-              "amt": 30000000,
-              "date": "10-08-2022"
-          }
-      ],
-      "closedDetails": [
-          {
-              "id": 100467714,
-              "holder": "ICICI BANK LIMITED",
-              "amt": 907500000,
-              "date": "07-07-2021",
-              "satisfied": "18-03-2023",
-              "years": 1.7,
-              "assets": "Fixed Deposit (FD No. 114713015563)"
-          },
-          {
-              "id": 100446510,
-              "holder": "HDFC BANK LIMITED",
-              "amt": 185584,
-              "date": "06-05-2021",
-              "satisfied": "07-03-2023",
-              "years": 1.8,
-              "assets": "Fixed Deposit (FD No.50300515389471)"
-          },
-          {
-              "id": 100333312,
-              "holder": "KOTAK MAHINDRA BANK LIMITED",
-              "amt": 1000000000,
-              "date": "18-03-2020",
-              "satisfied": "12-10-2020",
-              "years": 0.6,
-              "assets": "Book debts; Floating charge; Movable property (not being pledge)"
-          },
-          {
-              "id": 100286986,
-              "holder": "HDFC BANK LIMITED",
-              "amt": 567600,
-              "date": "17-08-2019",
-              "satisfied": "14-01-2022",
-              "years": 2.4,
-              "assets": "Creation of charge on fixed deposit of the Company"
-          },
-          {
-              "id": 100286983,
-              "holder": "HDFC BANK LIMITED",
-              "amt": 258000,
-              "date": "16-08-2019",
-              "satisfied": "14-01-2022",
-              "years": 2.4,
-              "assets": "Creation of charge on fixed deposit of the Company"
-          },
-          {
-              "id": 100286989,
-              "holder": "HDFC BANK LIMITED",
-              "amt": 1032000,
-              "date": "16-08-2019",
-              "satisfied": "14-01-2022",
-              "years": 2.4,
-              "assets": "Creation of charge on fixed deposit of the Company"
-          }
-      ],
-      "satisfied": {
-          "total": 6,
-          "amt": "193.93 Cr.",
-          "summary": [
-              "Total of 6 charges satisfied amounting to 1,939,343,184 (193.93 Cr.)",
-              "Average charge duration was 1.88 years before satisfaction",
-              "Most charges were secured against fixed deposits",
-              "Largest satisfied charge was from KOTAK MAHINDRA BANK LIMITED (100 Cr.)"
-          ]
-      },
-      "analysis": [
-          "Balanced distribution among three major financial institutions with HDFC Bank Limited holding the largest share at 34% of total charges",
-          "Total open charges of ₹8,882 Lakhs represent significant secured financing with an average charge value of ₹1,736 Lakhs",
-          "All open charges originated on the same date (19-04-2016), indicating a coordinated financing strategy",
-          "Average outstanding period of 4.64 years suggests good credit standing and consistent debt management",
-          "The company has successfully satisfied 9 charges worth ₹1,094.14 Lakhs, demonstrating strong repayment capability"
-      ]
-  },
-  "insights": {
-      "overview": [
-          "Advanced analysis of company performance, risks, and opportunities",
-          "Based on financial, market, and compliance data from multiple sources",
-          "Identifies key strengths, weaknesses, and potential red flags",
-          "Provides objective assessment of company's current position and outlook",
-          "Updated as of 10-05-2025 with latest available information",
-          "Highlights areas requiring attention or improvement"
-      ],
-      "key": {
-          "pos": [
-              "Established publicly traded company with 15 years of operations",
-              "Strong leadership team with experienced directors",
-              "Significant paid-up capital of over 96,503 lakhs",
-              "Clear brand identity and online presence with www.zomato.com",
-              "Regular statutory filings and compliance with AGM held in 2024"
-          ],
-          "caution": [
-              "Multiple bank charges indicating significant debt obligations",
-              "Past board turnover with 11 former directors",
-              "Potential risks associated with the food delivery industry",
-              "Directors with multiple board positions may have divided attention",
-              "Regulatory requirements of being a public company"
-          ],
-          "red": [
-              "Recent bank charges potentially indicating ongoing capital needs",
-              "Significant disparity between authorized and paid-up capital",
-              "Corporate structure changes indicated by name change to ETERNAL LIMITED",
-              "Heavy reliance on banking finance as indicated by charge history",
-              "Industry competitive pressures in food delivery and tech space"
-          ]
+        ]
       }
+    },
+    "FinancialsSummary": {
+      "LastUpdatedDateTime": "02-06-2025",
+      "FinancialsYearWise": [
+        {
+          "FinancialYear": "2024",
+          "PaidUpCapital": "8680255038",
+          "NetWorth": "227750255038",
+          "TotalIncome": "75420000000",
+          "TotalExpense": "61310000000",
+          "ProfitBeforeTax": "13720000000",
+          "IncomeTax": "10000000",
+          "ProfitAfterTax": "13710000000"
+        },
+        {
+          "FinancialYear": "2023",
+          "PaidUpCapital": "8363975413",
+          "NetWorth": "208067975413",
+          "TotalIncome": "55069000000",
+          "TotalExpense": "53897000000",
+          "ProfitBeforeTax": "1172000000",
+          "IncomeTax": "3000000",
+          "ProfitAfterTax": "1169000000"
+        },
+        {
+          "FinancialYear": "2022",
+          "PaidUpCapital": "7642940578",
+          "NetWorth": "167671940578",
+          "TotalIncome": "41085000000",
+          "TotalExpense": "53773000000",
+          "ProfitBeforeTax": "-10978000000",
+          "IncomeTax": "2000000",
+          "ProfitAfterTax": "-10980000000"
+        },
+        {
+          "FinancialYear": "2021",
+          "PaidUpCapital": "4549621950",
+          "NetWorth": "82094601950",
+          "TotalIncome": "18458180000",
+          "TotalExpense": "21850370000",
+          "ProfitBeforeTax": "-8860090000",
+          "IncomeTax": "0",
+          "ProfitAfterTax": "-8860090000"
+        },
+        {
+          "FinancialYear": "2020",
+          "PaidUpCapital": "340000",
+          "NetWorth": "8538450000",
+          "TotalIncome": "24857600000",
+          "TotalExpense": "46277590000",
+          "ProfitBeforeTax": "-24511770000",
+          "IncomeTax": "0",
+          "ProfitAfterTax": "-24511770000"
+        },
+        {
+          "FinancialYear": "2019",
+          "PaidUpCapital": "340000",
+          "NetWorth": "26090340000",
+          "TotalIncome": "13970060000",
+          "TotalExpense": "35980410000",
+          "ProfitBeforeTax": "-10011150000",
+          "IncomeTax": "0",
+          "ProfitAfterTax": "-10011150000"
+        },
+        {
+          "FinancialYear": "2018",
+          "PaidUpCapital": "300000",
+          "NetWorth": "12110150000",
+          "TotalIncome": "4850940000",
+          "TotalExpense": "5914060000",
+          "ProfitBeforeTax": "-1063120000",
+          "IncomeTax": "0",
+          "ProfitAfterTax": "-1063120000"
+        },
+        {
+          "FinancialYear": "2017",
+          "PaidUpCapital": "307616",
+          "NetWorth": "3840749930",
+          "TotalIncome": "3099699028",
+          "TotalExpense": "3696717630",
+          "ProfitBeforeTax": "-5852640725",
+          "IncomeTax": "0",
+          "ProfitAfterTax": "-5852640725"
+        },
+        {
+          "FinancialYear": "2016",
+          "PaidUpCapital": "1971993",
+          "NetWorth": "9590845994",
+          "TotalIncome": "1542947386",
+          "TotalExpense": "3163488356",
+          "ProfitBeforeTax": "-2658825438",
+          "IncomeTax": "0",
+          "ProfitAfterTax": "-2658825438"
+        },
+        {
+          "FinancialYear": "2015",
+          "PaidUpCapital": "1408759",
+          "NetWorth": "5126745769",
+          "TotalIncome": "949824077",
+          "TotalExpense": "1662916957",
+          "ProfitBeforeTax": "-718552889",
+          "IncomeTax": "0",
+          "ProfitAfterTax": "-718552889"
+        }
+      ]
+    },
+    "EmployeeAndEstablishmentSummary": {
+      "EstablishmentMaster": {
+        "LastUpdatedDateTime": "null",
+        "Establishment": [
+          {
+            "EstablishmentCode": "GNGGN0031492000",
+            "EstablishmentName": "ZOMATO MEDIA PVT. LTD.",
+            "EstablishmentAddress": "GROUND FIRST AND FOURTH FLOOR TOWER C VIPUL TECH SQUARE SECTOR 43",
+            "EPFCity": "GURGAON",
+            "EstablishmentPrimaryBusinessActivity": "GURGAON"
+          },
+          {
+            "EstablishmentCode": "GNGGN1112060000",
+            "EstablishmentName": "ZOMATO MEDIA PRIVATE LIMITED",
+            "EstablishmentAddress": "null",
+            "EPFCity": "null",
+            "EstablishmentPrimaryBusinessActivity": "null"
+          }
+        ]
+      },
+      "EmployeeTrend": {
+        "EmployeeMonthWise": [
+          {
+            "WagesMonth": "SEP-24",
+            "EpfEmployeeCountTotal": "6245",
+            "EpfAmountPaidTotal": "29438350.00"
+          },
+          {
+            "WagesMonth": "OCT-24",
+            "EpfEmployeeCountTotal": "6478",
+            "EpfAmountPaidTotal": "30540102.00"
+          },
+          {
+            "WagesMonth": "NOV-24",
+            "EpfEmployeeCountTotal": "6880",
+            "EpfAmountPaidTotal": "31912708.00"
+          },
+          {
+            "WagesMonth": "DEC-24",
+            "EpfEmployeeCountTotal": "7165",
+            "EpfAmountPaidTotal": "33053517.00"
+          },
+          {
+            "WagesMonth": "JAN-25",
+            "EpfEmployeeCountTotal": "7560",
+            "EpfAmountPaidTotal": "34449233.00"
+          },
+          {
+            "WagesMonth": "FEB-25",
+            "EpfEmployeeCountTotal": "7701",
+            "EpfAmountPaidTotal": "34986477.00"
+          },
+          {
+            "WagesMonth": "MAR-25",
+            "EpfEmployeeCountTotal": "7641",
+            "EpfAmountPaidTotal": "34492278.00"
+          },
+          {
+            "WagesMonth": "APR-25",
+            "EpfEmployeeCountTotal": "7331",
+            "EpfAmountPaidTotal": "34739259.00"
+          }
+        ]
+      }
+    },
+    "CreditRatingDetail": {
+      "LastUpdatedDateTime": "null"
+    }
   }
 }
